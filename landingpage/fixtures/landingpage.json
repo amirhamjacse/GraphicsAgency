@@ -1,0 +1,4430 @@
+[
+{
+  "model": "landingpage.project",
+  "pk": 6,
+  "fields": {
+    "title": "demo2",
+    "slug": "Brand_Guideline",
+    "description": "",
+    "project_type": "Brand Guideline",
+    "thumbnail": "projects/aa_0tOMp2v.jpeg",
+    "is_featured": false,
+    "created_at": "2025-08-17T17:23:15.317Z",
+    "updated_at": "2025-08-18T10:44:42.670Z"
+  }
+},
+{
+  "model": "landingpage.project",
+  "pk": 8,
+  "fields": {
+    "title": "demo3",
+    "slug": "growup-logo",
+    "description": "",
+    "project_type": "Full Brand identity",
+    "thumbnail": "projects/25.jpeg",
+    "is_featured": false,
+    "created_at": "2025-08-18T10:20:03.049Z",
+    "updated_at": "2025-08-18T10:45:03.514Z"
+  }
+},
+{
+  "model": "landingpage.project",
+  "pk": 9,
+  "fields": {
+    "title": "demo1",
+    "slug": "bravix-logo",
+    "description": "",
+    "project_type": "Brand Guidelines",
+    "thumbnail": "projects/aaa_02pnAg7.jpeg",
+    "is_featured": false,
+    "created_at": "2025-08-18T10:22:56.944Z",
+    "updated_at": "2025-08-18T10:45:15.643Z"
+  }
+},
+{
+  "model": "landingpage.project",
+  "pk": 10,
+  "fields": {
+    "title": "Car logo",
+    "slug": "car-logo",
+    "description": "",
+    "project_type": "Logo with Brand identity",
+    "thumbnail": "projects/top.jpeg",
+    "is_featured": true,
+    "created_at": "2025-08-18T10:27:06.356Z",
+    "updated_at": "2025-08-18T10:27:06.357Z"
+  }
+},
+{
+  "model": "landingpage.project",
+  "pk": 11,
+  "fields": {
+    "title": "Bravix logo",
+    "slug": "spark-logo",
+    "description": "",
+    "project_type": "Brand identity",
+    "thumbnail": "projects/Bravix-logo.jpeg",
+    "is_featured": true,
+    "created_at": "2025-08-18T10:29:25.980Z",
+    "updated_at": "2025-08-18T11:05:49.295Z"
+  }
+},
+{
+  "model": "landingpage.project",
+  "pk": 12,
+  "fields": {
+    "title": "Spark it",
+    "slug": "spark-it",
+    "description": "",
+    "project_type": "Brand Guidelines",
+    "thumbnail": "projects/aaa_0zxBCwS.jpeg",
+    "is_featured": true,
+    "created_at": "2025-08-18T10:50:27.220Z",
+    "updated_at": "2025-08-18T10:50:27.220Z"
+  }
+},
+{
+  "model": "landingpage.project",
+  "pk": 13,
+  "fields": {
+    "title": "Farming logo",
+    "slug": "growup-farming-logo",
+    "description": "",
+    "project_type": "Brand identity",
+    "thumbnail": "projects/25_cjbFKsn.jpeg",
+    "is_featured": true,
+    "created_at": "2025-08-18T10:52:57.714Z",
+    "updated_at": "2025-08-18T11:10:11.549Z"
+  }
+},
+{
+  "model": "landingpage.project",
+  "pk": 14,
+  "fields": {
+    "title": "Growly.io",
+    "slug": "growly-logo-branding",
+    "description": "",
+    "project_type": "Logo & Branding",
+    "thumbnail": "projects/aa_X5E3YCI.jpeg",
+    "is_featured": true,
+    "created_at": "2025-08-18T10:54:17.053Z",
+    "updated_at": "2025-08-18T11:11:15.070Z"
+  }
+},
+{
+  "model": "landingpage.project",
+  "pk": 15,
+  "fields": {
+    "title": "Pickup point",
+    "slug": "pickup-point",
+    "description": "",
+    "project_type": "Pickup point—Brand Guidelines",
+    "thumbnail": "projects/aaa_qV45H4t.jpeg",
+    "is_featured": true,
+    "created_at": "2025-08-18T10:55:10.149Z",
+    "updated_at": "2025-08-18T10:55:10.149Z"
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 61,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_1_DSZTVtV.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 62,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_2_i8SLLDH.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 63,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_3_YoIOLk4.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 64,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_4_hGbbdLQ.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 65,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_5_tlY88GQ.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 66,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_6_PonHAiP.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 67,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_7_tUudCvo.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 68,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_8_LwNsbjC.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 69,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_9_q7Rc5vj.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 70,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_10_61vRzw1.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 71,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_11_Bzc3MUm.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 72,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_12_dgD2fFB.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 73,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_13_fehOcYY.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 74,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_14_6kUpelE.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 75,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_15_bSoFPGC.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 76,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_16_Mg7MFfQ.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 77,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_17_60RQ22I.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 78,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_18_C3nptym.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 79,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_19_u20RT9a.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 80,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_20_e7RouyQ.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 81,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_21_RGOXGMV.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 82,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_22_IRUxIQO.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 83,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_23_gsHKH6S.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 84,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_24_DdHZ58i.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 85,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_25_wVnkqkm.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 86,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_26_iHvaquZ.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 87,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_27_RMwJiCT.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 88,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_28_Pox7Lys.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 89,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_29_THIA8Hu.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 90,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_30_NA3dP3z.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 91,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_31_ZFzPCpj.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 92,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_32_4u8TGpG.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 93,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_33_tHucfJJ.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 94,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_34_tLJciCq.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 95,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_36_MV83jHe.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 96,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_37_WvMM8ZF.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 97,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_38_PkJLFCT.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 98,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_39_llHZDjI.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 99,
+  "fields": {
+    "project_sec": 15,
+    "title": "",
+    "image": "project_section/Pickup_pointBrand_Guidelines_40_PkzQszk.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 100,
+  "fields": {
+    "project_sec": 14,
+    "title": "Growly Logo 1",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_1.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 101,
+  "fields": {
+    "project_sec": 14,
+    "title": "Growly Logo 2",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_2.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 102,
+  "fields": {
+    "project_sec": 14,
+    "title": "Growly Logo 3",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_3.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 103,
+  "fields": {
+    "project_sec": 14,
+    "title": "Growly Logo 4",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_4.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 104,
+  "fields": {
+    "project_sec": 14,
+    "title": "Growly Logo 5",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_5.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 105,
+  "fields": {
+    "project_sec": 14,
+    "title": "Growly Logo 6",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_7.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 106,
+  "fields": {
+    "project_sec": 14,
+    "title": "Growly Logo 9",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_8.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 107,
+  "fields": {
+    "project_sec": 14,
+    "title": "Growly Logo 10",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_9.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 108,
+  "fields": {
+    "project_sec": 14,
+    "title": "Growly Logo 11",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_10.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 109,
+  "fields": {
+    "project_sec": 14,
+    "title": "Growly Logo 12",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_11.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 110,
+  "fields": {
+    "project_sec": 14,
+    "title": "Growly Logo 13",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_12.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 111,
+  "fields": {
+    "project_sec": 14,
+    "title": "Growly Logo 14",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_13.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 112,
+  "fields": {
+    "project_sec": 14,
+    "title": "Growly Logo 15",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_14.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 113,
+  "fields": {
+    "project_sec": 14,
+    "title": "Growly Logo 16",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_15.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 114,
+  "fields": {
+    "project_sec": 14,
+    "title": "Growly Logo 17",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_16.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 115,
+  "fields": {
+    "project_sec": 14,
+    "title": "Growly Logo 18",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_17.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 116,
+  "fields": {
+    "project_sec": 14,
+    "title": "Growly Logo 19",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_18.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 117,
+  "fields": {
+    "project_sec": 14,
+    "title": "Growly Logo 20",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_19.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 118,
+  "fields": {
+    "project_sec": 14,
+    "title": "Growly Logo 21",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_20.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 119,
+  "fields": {
+    "project_sec": 14,
+    "title": "Growly Logo 22",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_21.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 120,
+  "fields": {
+    "project_sec": 14,
+    "title": "Growly Logo 23",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_22.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 121,
+  "fields": {
+    "project_sec": 14,
+    "title": "Growly Logo 24",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_23.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 122,
+  "fields": {
+    "project_sec": 14,
+    "title": "Growly Logo 25",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_24.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 123,
+  "fields": {
+    "project_sec": 14,
+    "title": "Growly Logo 26",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_25.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 124,
+  "fields": {
+    "project_sec": 14,
+    "title": "Growly Logo 27",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_26.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 125,
+  "fields": {
+    "project_sec": 14,
+    "title": "Growly Logo 28",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_27.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 126,
+  "fields": {
+    "project_sec": 14,
+    "title": "Growly Logo 29",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_28.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 127,
+  "fields": {
+    "project_sec": 14,
+    "title": "Growly Logo 30",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_29.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 128,
+  "fields": {
+    "project_sec": 14,
+    "title": "Growly Logo 31",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_30.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 129,
+  "fields": {
+    "project_sec": 14,
+    "title": "Growly Logo 32",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_31.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 130,
+  "fields": {
+    "project_sec": 14,
+    "title": "33",
+    "image": "project_section/Growly_Logo__Brand_Identity_Design_32.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 131,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 1",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-01.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 132,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 2",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-02.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 133,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 3",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-03.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 134,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 4",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-04.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 135,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 5",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-05.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 136,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 6",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-06.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 137,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 7",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-07.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 138,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 8",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-08.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 139,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 9",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-09.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 140,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 10",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-10.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 141,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 11",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-11.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 142,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 12",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-12.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 143,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 13",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-13.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 144,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 14",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-14.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 145,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 15",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-15.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 146,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 16",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-16.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 147,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 17",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-17_hCnnHR4.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 148,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 18",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-18.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 149,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 19",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-19.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 150,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 20",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-20.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 151,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 21",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-21.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 152,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 22",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-22.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 153,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 23",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-23.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 154,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 24",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-24.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 155,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 25",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-25.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 156,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 26",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-26.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 157,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 27",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-27.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 158,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 28",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-28.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 159,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 29",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-29.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 160,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 30",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-30.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 161,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 31",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-31.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 162,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 32",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-32.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 163,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 33",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-33.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 164,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 34",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-34.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 165,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 35",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-35.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 166,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 36",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-36.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 167,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 37",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-37.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 168,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 38",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-38.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 169,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 39",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-39.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 170,
+  "fields": {
+    "project_sec": 12,
+    "title": "Spark solutions 40",
+    "image": "project_section/Spark_solutions_logo_and_Brand_identity_design-40.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 171,
+  "fields": {
+    "project_sec": 11,
+    "title": "Bravix logo 1",
+    "image": "project_section/1_lHXA2Ci.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 172,
+  "fields": {
+    "project_sec": 11,
+    "title": "Bravix logo 2",
+    "image": "project_section/2_L1Jcsc4.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 173,
+  "fields": {
+    "project_sec": 11,
+    "title": "Bravix logo 3",
+    "image": "project_section/3_qYEjW0J.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 174,
+  "fields": {
+    "project_sec": 11,
+    "title": "Bravix logo 4",
+    "image": "project_section/4_AXNU7ot.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 175,
+  "fields": {
+    "project_sec": 11,
+    "title": "Bravix logo 5",
+    "image": "project_section/5_YkycI5g.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 176,
+  "fields": {
+    "project_sec": 12,
+    "title": "Bravix logo 6",
+    "image": "project_section/6_cEG03RE.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 177,
+  "fields": {
+    "project_sec": 11,
+    "title": "Bravix logo 7",
+    "image": "project_section/7_UkiS703.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 178,
+  "fields": {
+    "project_sec": 11,
+    "title": "Bravix logo 8",
+    "image": "project_section/8_TDHQ7Ll.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 179,
+  "fields": {
+    "project_sec": 11,
+    "title": "Bravix logo 9",
+    "image": "project_section/9_KVjbQCN.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 180,
+  "fields": {
+    "project_sec": 11,
+    "title": "Bravix logo 10",
+    "image": "project_section/10_8HehmJi.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 181,
+  "fields": {
+    "project_sec": 11,
+    "title": "Bravix logo 11",
+    "image": "project_section/11_qpEV4WD.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 182,
+  "fields": {
+    "project_sec": 11,
+    "title": "Bravix logo 12",
+    "image": "project_section/12_BGND7PE.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 183,
+  "fields": {
+    "project_sec": 11,
+    "title": "Bravix logo 13",
+    "image": "project_section/13.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 184,
+  "fields": {
+    "project_sec": 11,
+    "title": "Bravix logo 14",
+    "image": "project_section/14_V2HaBpz.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 185,
+  "fields": {
+    "project_sec": 11,
+    "title": "Bravix logo 15",
+    "image": "project_section/15.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 186,
+  "fields": {
+    "project_sec": 11,
+    "title": "Bravix logo 16",
+    "image": "project_section/16_d2RuGW8.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 187,
+  "fields": {
+    "project_sec": 11,
+    "title": "Bravix logo 17",
+    "image": "project_section/17_BlZ4J65.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 188,
+  "fields": {
+    "project_sec": 11,
+    "title": "Bravix logo 18",
+    "image": "project_section/18_JbR3hEk.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 189,
+  "fields": {
+    "project_sec": 11,
+    "title": "Bravix logo 19",
+    "image": "project_section/19_EwZjkDg.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 190,
+  "fields": {
+    "project_sec": 11,
+    "title": "Bravix logo 20",
+    "image": "project_section/20_yCgGp7b.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 191,
+  "fields": {
+    "project_sec": 11,
+    "title": "Bravix logo 21",
+    "image": "project_section/21.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 192,
+  "fields": {
+    "project_sec": 11,
+    "title": "Bravix logo 22",
+    "image": "project_section/22.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 193,
+  "fields": {
+    "project_sec": 11,
+    "title": "23",
+    "image": "project_section/23.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 194,
+  "fields": {
+    "project_sec": 13,
+    "title": "Farming logo 1",
+    "image": "project_section/growup_1.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 195,
+  "fields": {
+    "project_sec": 13,
+    "title": "Farming logo 2",
+    "image": "project_section/growup_2.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 196,
+  "fields": {
+    "project_sec": 13,
+    "title": "Farming logo 3",
+    "image": "project_section/growup_3.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 197,
+  "fields": {
+    "project_sec": 13,
+    "title": "Farming logo 4",
+    "image": "project_section/growup_4.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 198,
+  "fields": {
+    "project_sec": 13,
+    "title": "Farming logo",
+    "image": "project_section/growup_5.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 199,
+  "fields": {
+    "project_sec": 13,
+    "title": "Farming logo 6",
+    "image": "project_section/growup_6.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 200,
+  "fields": {
+    "project_sec": 13,
+    "title": "Farming logo 7",
+    "image": "project_section/growup_7.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 201,
+  "fields": {
+    "project_sec": 13,
+    "title": "Farming logo 8",
+    "image": "project_section/growup_8.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 202,
+  "fields": {
+    "project_sec": 13,
+    "title": "Farming logo 9",
+    "image": "project_section/growup_9.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 203,
+  "fields": {
+    "project_sec": 13,
+    "title": "Farming logo 10",
+    "image": "project_section/growup_10.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 204,
+  "fields": {
+    "project_sec": 13,
+    "title": "Farming logo 11",
+    "image": "project_section/growup_11.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 205,
+  "fields": {
+    "project_sec": 13,
+    "title": "Farming logo 12",
+    "image": "project_section/growup_12.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 206,
+  "fields": {
+    "project_sec": 13,
+    "title": "Farming logo 13",
+    "image": "project_section/growup_13.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 207,
+  "fields": {
+    "project_sec": 13,
+    "title": "Farming logo 14",
+    "image": "project_section/growup_14.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 208,
+  "fields": {
+    "project_sec": 13,
+    "title": "Farming logo 15",
+    "image": "project_section/growup_15.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 209,
+  "fields": {
+    "project_sec": 13,
+    "title": "Farming logo 16",
+    "image": "project_section/growup_16.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 210,
+  "fields": {
+    "project_sec": 13,
+    "title": "Farming logo 17",
+    "image": "project_section/growup_17.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 211,
+  "fields": {
+    "project_sec": 13,
+    "title": "Farming logo 18",
+    "image": "project_section/growup_18.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 212,
+  "fields": {
+    "project_sec": 13,
+    "title": "Farming logo 19",
+    "image": "project_section/growup_19.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 213,
+  "fields": {
+    "project_sec": 13,
+    "title": "Farming logo 20",
+    "image": "project_section/growup_20.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 214,
+  "fields": {
+    "project_sec": 13,
+    "title": "Farming logo 21",
+    "image": "project_section/growup_21.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 215,
+  "fields": {
+    "project_sec": 13,
+    "title": "Farming logo 22",
+    "image": "project_section/growup_22.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 216,
+  "fields": {
+    "project_sec": 13,
+    "title": "Farming logo 23",
+    "image": "project_section/growup_23.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 217,
+  "fields": {
+    "project_sec": 13,
+    "title": "Farming logo 24",
+    "image": "project_section/growup_24.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 218,
+  "fields": {
+    "project_sec": 13,
+    "title": "Farming logo 25",
+    "image": "project_section/growup_25.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 219,
+  "fields": {
+    "project_sec": 13,
+    "title": "Farming logo 26",
+    "image": "project_section/growup_26.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 220,
+  "fields": {
+    "project_sec": 13,
+    "title": "Farming logo 27",
+    "image": "project_section/growup_27.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 221,
+  "fields": {
+    "project_sec": 13,
+    "title": "Farming logo 28",
+    "image": "project_section/growup_28.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 222,
+  "fields": {
+    "project_sec": 13,
+    "title": "Farming logo 29",
+    "image": "project_section/growup_29.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 223,
+  "fields": {
+    "project_sec": 10,
+    "title": "Car logo 1",
+    "image": "project_section/1_pHUKflI.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 224,
+  "fields": {
+    "project_sec": 10,
+    "title": "Car logo 2",
+    "image": "project_section/2_PNuyBNI.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 225,
+  "fields": {
+    "project_sec": 10,
+    "title": "Car logo 3",
+    "image": "project_section/3_Z3sTqeM.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 226,
+  "fields": {
+    "project_sec": 10,
+    "title": "Car logo 4",
+    "image": "project_section/4_KvtzKnU.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 227,
+  "fields": {
+    "project_sec": 10,
+    "title": "Car logo 5",
+    "image": "project_section/5_6wzo0Qw.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 228,
+  "fields": {
+    "project_sec": 10,
+    "title": "Car logo 6",
+    "image": "project_section/6_750vLlV.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 229,
+  "fields": {
+    "project_sec": 10,
+    "title": "Car logo 7",
+    "image": "project_section/7_XPbtc3V.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 230,
+  "fields": {
+    "project_sec": 10,
+    "title": "Car logo 8",
+    "image": "project_section/8_85arpxt.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 231,
+  "fields": {
+    "project_sec": 10,
+    "title": "Car logo 9",
+    "image": "project_section/9_wGuqrIo.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 232,
+  "fields": {
+    "project_sec": 10,
+    "title": "Car logo 10",
+    "image": "project_section/10_V4zgh5H.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 233,
+  "fields": {
+    "project_sec": 10,
+    "title": "Car logo 11",
+    "image": "project_section/11_vmlL951.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 234,
+  "fields": {
+    "project_sec": 10,
+    "title": "Car logo 12",
+    "image": "project_section/12_mdw2NY0.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 235,
+  "fields": {
+    "project_sec": 10,
+    "title": "Car logo 13",
+    "image": "project_section/13_qPgqdRI.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 236,
+  "fields": {
+    "project_sec": 10,
+    "title": "Car logo 14",
+    "image": "project_section/14_GWqQpbH.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 237,
+  "fields": {
+    "project_sec": 10,
+    "title": "Car logo 15",
+    "image": "project_section/15_cvfMdIM.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 238,
+  "fields": {
+    "project_sec": 10,
+    "title": "Car logo 16",
+    "image": "project_section/16_PQFEIvs.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 239,
+  "fields": {
+    "project_sec": 10,
+    "title": "Car logo 17",
+    "image": "project_section/17_g7CHrRP.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 240,
+  "fields": {
+    "project_sec": 10,
+    "title": "Car logo 18",
+    "image": "project_section/18_JNTC8YQ.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 241,
+  "fields": {
+    "project_sec": 10,
+    "title": "Car logo 19",
+    "image": "project_section/19_D44Rxv2.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 242,
+  "fields": {
+    "project_sec": 10,
+    "title": "Car logo 20",
+    "image": "project_section/20_9V6Rv9P.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.projectsection",
+  "pk": 243,
+  "fields": {
+    "project_sec": 10,
+    "title": "Car logo 21",
+    "image": "project_section/21_FuSct2c.jpeg",
+    "description": "",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.service",
+  "pk": 3,
+  "fields": {
+    "title": "Graphic Design",
+    "slug": "graphic-design",
+    "short_description": "",
+    "description": "We deliver creative and impactful graphic designs that align with your brand. Get ready to wow the world with eye-catching graphics that steal the spotlight!",
+    "icon": "",
+    "logo": "services/Graphic-design-icon.jpeg",
+    "is_featured": false,
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.service",
+  "pk": 4,
+  "fields": {
+    "title": "Branding",
+    "slug": "branding",
+    "short_description": "",
+    "description": "Build a brand, not just a business. From brand identity development to style guides, we create a cohesive and professional image for your business. Our branding solutions help you stand out in the market with clarity and con",
+    "icon": "",
+    "logo": "services/Branding-icon.jpeg",
+    "is_featured": true,
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.service",
+  "pk": 5,
+  "fields": {
+    "title": "Logo Designing",
+    "slug": "logo-designing",
+    "short_description": "",
+    "description": "Your logo is the face of your brand. We design memorable, scalable, and timeless logos that perfectly reflect your business values and leave a lasting impression. Whether you need a minimalist, modern, or illustrative design, we tailor each logo with creativity and strategy.",
+    "icon": "",
+    "logo": "services/Logo-design-icon.jpeg",
+    "is_featured": true,
+    "order": 1
+  }
+},
+{
+  "model": "landingpage.service",
+  "pk": 6,
+  "fields": {
+    "title": "Packaging Design",
+    "slug": "packaging-design",
+    "short_description": "",
+    "description": "Packaging is more than just a wrapper—it’s a silent salesperson. We design eye-catching and functional packaging that not only protects your product but also attracts buyers and communicates your brand’s story on the shelf.",
+    "icon": "",
+    "logo": "services/packaging-design.jpeg",
+    "is_featured": true,
+    "order": 3
+  }
+},
+{
+  "model": "landingpage.brandingcasestudy",
+  "pk": 1,
+  "fields": {
+    "name": "Vexora logo design",
+    "logo": "case_studies/4.jpeg",
+    "description": "",
+    "is_active": true,
+    "created_at": "2025-07-30T14:03:42.396Z"
+  }
+},
+{
+  "model": "landingpage.brandingcasestudy",
+  "pk": 2,
+  "fields": {
+    "name": "Tech logo",
+    "logo": "case_studies/bb.jpeg",
+    "description": "",
+    "is_active": true,
+    "created_at": "2025-08-01T04:33:36.347Z"
+  }
+},
+{
+  "model": "landingpage.brandingcasestudy",
+  "pk": 3,
+  "fields": {
+    "name": "Modern logo",
+    "logo": "case_studies/4e92ddb100ca4ab488bf266b1d4f4df4.jpeg",
+    "description": "",
+    "is_active": true,
+    "created_at": "2025-08-01T04:36:11.074Z"
+  }
+},
+{
+  "model": "landingpage.brandingcasestudy",
+  "pk": 4,
+  "fields": {
+    "name": "Visix Virtual",
+    "logo": "case_studies/11.jpeg",
+    "description": "This is brand car logo",
+    "is_active": true,
+    "created_at": "2025-08-01T04:41:08.216Z"
+  }
+},
+{
+  "model": "landingpage.testimonial",
+  "pk": 2,
+  "fields": {
+    "client_name": "James John",
+    "client_title": "Creative Director",
+    "client_company": "Luxe Interiors",
+    "client_photo": "testimonials/filip-rankovic-grobgaard-WZXvaEjjqRw-unsplash.jpeg",
+    "content": "I was impressed with Sohel’s dedication to detail and innovative approach. The designs he created brought fresh energy to our brand and elevated our presence in the market. He’s truly a professional who understands how to craft meaningful brand experiences.",
+    "is_featured": true,
+    "created_at": "2025-07-30T17:18:14.008Z"
+  }
+},
+{
+  "model": "landingpage.testimonial",
+  "pk": 3,
+  "fields": {
+    "client_name": "Jennifer",
+    "client_title": "Founder & CEO",
+    "client_company": "Bright Ventures",
+    "client_photo": "testimonials/pexels-fauxels-3184608.jpeg",
+    "content": "This designer exceeded all my expectations. The quality of work, attention to detail, and originality were top-notch. They provided several concepts to choose from and guided me through every step of the branding process. I’ve received so many compliments on my new logo. I’ll definitely be working with them again!",
+    "is_featured": true,
+    "created_at": "2025-07-30T17:19:58.967Z"
+  }
+},
+{
+  "model": "landingpage.testimonial",
+  "pk": 4,
+  "fields": {
+    "client_name": "Emily Carter",
+    "client_title": "Marketing Director",
+    "client_company": "NovaTech IT",
+    "client_photo": "testimonials/pexels-mikhail-nilov-6969619.jpeg",
+    "content": "Working with Sohel was an exceptional experience. His ability to understand our brand vision and translate it into a powerful visual identity exceeded our expectations. The logo he designed not only represents our company perfectly but also resonates deeply with our audience.",
+    "is_featured": true,
+    "created_at": "2025-07-30T17:20:45.789Z"
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 32,
+  "fields": {
+    "name": "Mike Harvey",
+    "email": "mike@theroofresource.com",
+    "phone": "+15865317089",
+    "subject": "Logo",
+    "message": "With guidelines provided, how many logo designs do you provide? What is your turnaround time? What are the costs?",
+    "attachment": "",
+    "submitted_at": "2025-09-20T12:56:04.642Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 102,
+  "fields": {
+    "name": "Mike Claus Bertrand\r\n",
+    "email": "info@digital-x-press.com",
+    "phone": "84176263193",
+    "subject": "Add AEO to your SEO strategies today !",
+    "message": "Hi, \r\nI understand that most website owners have difficulties grasping that organic ranking growth is a gradual process and a strategically planned regular commitment. \r\n \r\nSadly, very few marketers have the willingness to observe the gradual yet impactful results that can completely change their online presence. \r\n \r\nWith constant algorithm changes, a stable, continuous SEO strategy including Answer Engine Optimization (AEO) is essential for achieving a profitable outcome. \r\n \r\nIf you see this as the ideal strategy, collaborate with us! \r\n \r\nDiscover Our Monthly SEO Services https://www.digital-x-press.com/unbeatable-seo/ \r\n \r\nTalk to Us on Instant Messaging https://www.digital-x-press.com/whatsapp-us/ \r\n \r\nWe provide remarkable results for your resources, and you will value choosing us as your growth partner. \r\n \r\nWarm regards, \r\nDigital X SEO Experts \r\nPhone/WhatsApp: +1 (844) 754-1148",
+    "attachment": "",
+    "submitted_at": "2025-12-26T10:21:46.819Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 103,
+  "fields": {
+    "name": "Saffet Erdogan",
+    "email": "ceylanturks41@gmail.com",
+    "phone": "82668627584",
+    "subject": "Request for Business Cooperation",
+    "message": "Greetings, \r\n \r\nI am writing to present a brief biography about myself and to seek your business cooperation. \r\n \r\nI was born on 15 March 1968 in Turkey. I have lived a life defined by vision, resilience, and integrity. I am a devoted husband and a proud father of one son, and I embody the values of family, responsibility, and leadership in both my personal and professional journey. \r\n \r\nAs the Managing Director of a furniture manufacturing company and a towel and textile manufacturing company, I have built a reputation as a dynamic entrepreneur whose work combines creativity with discipline. My leadership style is marked by fairness, dedication, and a deep sense of responsibility toward my employees and business partners. I am admired for my ability to transform challenges into opportunities, guiding my businesses with wisdom and foresight. \r\n \r\nAs a Turkish Christian, I hold a strong belief in freedom of worship and advocate for respect, tolerance, and unity among people of different faiths. My spiritual values inspire me to live with compassion, humility, and a commitment to justice. I am known not only for my professional achievements but also for my moral strength and unwavering principles. \r\n \r\nMy personality reflects qualities that attract admiration: \r\n \r\n* Integrity and honesty in all dealings \r\n* Visionary leadership that inspires growth and innovation \r\n* Compassion and generosity, always mindful of the needs of others \r\n* Resilience and determination, never deterred by obstacles \r\n* Faith and humility, grounding success in values that transcend material wealth \r\n \r\nThrough my journey, I have become more than a successful businessman—a role model of responsibility, a man of faith, and a beacon of perseverance. My life story continues to inspire those around me, proving that true greatness lies not only in achievements but in the character and values that sustain them. \r\n \r\nI am currently experiencing issues with the Turkish government, as the Government of Turkey is planning to confiscate my assets. Therefore, I wish to invest my funds, totaling 85,000,000 euros, with you. \r\n \r\nFor further information, I would appreciate it if you could write to me with a brief biography about yourself as well. Please write to me directly at this email address, as I have this email application on my phone and can read emails quickly and give a prompt reply: *<>esaffet81@gmail.com ]   (mailto: esaffet81@gmail.com)*. \r\n \r\nMy regards, \r\n \r\nMr. Saffet Erdogan",
+    "attachment": "",
+    "submitted_at": "2025-12-27T23:42:04.429Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 104,
+  "fields": {
+    "name": "Hugh",
+    "email": "sales@designscanvas.com",
+    "phone": "3172687129",
+    "subject": "Hugh Nankervis",
+    "message": "Good Morning \r\n\r\nLooking to improve your posture and live a healthier life? Our Medico Postura™ Body Posture Corrector is here to help!\r\n\r\nExperience instant posture improvement with Medico Postura™. This easy-to-use device can be worn anywhere, anytime – at home, work, or even while you sleep.\r\n\r\nMade from lightweight, breathable fabric, it ensures comfort all day long.\r\n\r\nGrab it today at a fantastic 60% OFF: https://medicopostura.com\r\n\r\nPlus, enjoy FREE shipping for today only!\r\n\r\nDon't miss out on this amazing deal. Get yours now and start transforming your posture!\r\n\r\nMany Thanks, \r\n\r\nHugh",
+    "attachment": "",
+    "submitted_at": "2025-12-28T18:56:11.722Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 105,
+  "fields": {
+    "name": "Anglea",
+    "email": "sales@designscanvas.com",
+    "phone": "609903036",
+    "subject": "Anglea Hertzog",
+    "message": "Hey, \r\n\r\nI hope this email finds you well. I wanted to let you know about our new BANGE backpacks and sling bags that just released.\r\n\r\nThe bags are waterproof and anti-theft, and have a built-in USB cable that can recharge your phone while you're on the go.\r\n\r\nBoth bags are made of durable and high-quality materials, and are perfect for everyday use or travel.\r\n\r\nOrder yours now at 50% OFF with FREE Shipping: http://bangeshop.com\r\n\r\nThank You,\r\n\r\nAnglea",
+    "attachment": "",
+    "submitted_at": "2026-01-01T22:21:11.349Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 106,
+  "fields": {
+    "name": "Gemma Marshall",
+    "email": "gemmamarshall811@gmail.com",
+    "phone": "6852694822",
+    "subject": "Increasing your reach on Instagram",
+    "message": "Hi,\r\n\r\nAre you looking to grow your Instagram audience (or perhaps launch a new page)?\r\n\r\nWe run a manual Instagram service that acts as your dedicated assistant. We can build your profile from scratch or grow your existing account by 300+ real followers a month.\r\n\r\nAll work is done manually on real phones—no bots—starting at just $60/month.\r\n\r\nMind if I send over the details?\r\n\r\nKind Regards,\r\nGemma\r\n\r\nhttps://unsubscribe.social/unsubscribe.php?d=designscanvas.com",
+    "attachment": "",
+    "submitted_at": "2026-01-03T07:49:15.227Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 107,
+  "fields": {
+    "name": "Silke Wickens",
+    "email": "indexing@searches-designscanvas.com",
+    "phone": "353561307",
+    "subject": "designscanvas.com",
+    "message": "Submit designscanvas.com for GoogleSearchIndex to have it displayed in web search results.\r\nAdd designscanvas.com now at https://searchregister.org",
+    "attachment": "",
+    "submitted_at": "2026-01-05T23:03:42.296Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 108,
+  "fields": {
+    "name": "Verena Currie",
+    "email": "join@seo4designscanvas.com",
+    "phone": "536600524",
+    "subject": "designscanvas.com",
+    "message": "Hello,\r\n\r\nAdd designscanvas.com to SEODIRECTORY fort a better ranking in Web Search results order.\r\n\r\nhttps://seodir.pro",
+    "attachment": "",
+    "submitted_at": "2026-01-07T05:02:19.769Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 109,
+  "fields": {
+    "name": "Mike Per Goossens\r\n",
+    "email": "info@speed-seo.net",
+    "phone": "84314799217",
+    "subject": "Find designscanvas.com SEO Issues totally free",
+    "message": "Hi, \r\nWorried about hidden SEO issues on your website? Let us help — completely free. \r\nRun a 100% free SEO check and discover the exact problems holding your site back from ranking higher on Google. \r\n \r\nRun Your Free SEO Check Now \r\nhttps://www.speed-seo.net/check-site-seo-score/ \r\n \r\nOr chat with us and our agent will run the report for you: https://www.speed-seo.net/whatsapp-with-us/ \r\n \r\nBest regards, \r\n \r\n \r\nMike Per Goossens\r\n \r\nSpeed SEO Digital \r\nEmail: info@speed-seo.net \r\nPhone/WhatsApp: +1 (833) 454-8622",
+    "attachment": "",
+    "submitted_at": "2026-01-07T17:21:20.036Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 110,
+  "fields": {
+    "name": "Maureen Woollard",
+    "email": "ai@list-designscanvas.com",
+    "phone": "23762876",
+    "subject": "designscanvas.com and ChatGPT",
+    "message": "More and more people skip Google Search and ask ChatGPT to search for everything.\r\n\r\nAdd designscanvas.com to our AI-optimized directory now to increase your chances of being recommended.\r\n\r\nJoin now: https://AIREG.pro/",
+    "attachment": "",
+    "submitted_at": "2026-01-08T05:06:13.846Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 111,
+  "fields": {
+    "name": "Sonam ",
+    "email": "sonam.dgtlsolution@gmail.com",
+    "phone": "9266141479",
+    "subject": "Website design that reflects your brand perfectly?",
+    "message": "Hi http://designscanvas.com,\r\n\r\nWe create modern, user-friendly websites that help brands stand out and attract more customers. Our focus is on design, performance, and user experience — so your visitors stay longer and take action.\r\n\r\nCan I share a few design suggestions for your site? Please share you'r Website Link and Whatsapp Number.\r\n\r\nThank You,\r\nSonam\r\n",
+    "attachment": "",
+    "submitted_at": "2026-01-08T08:23:18.933Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 112,
+  "fields": {
+    "name": "Lorna Spears",
+    "email": "indexing@searches-designscanvas.com",
+    "phone": "Telephonenumber",
+    "subject": "designscanvas.com",
+    "message": "Submit designscanvas.com to Google Index to have it appear in search results\r\n\r\nEnlist designscanvas.com now at https://searchregister.org",
+    "attachment": "",
+    "submitted_at": "2026-01-13T20:11:51.769Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 113,
+  "fields": {
+    "name": "Glenna",
+    "email": "glenna@designscanvas.com",
+    "phone": "3165593618",
+    "subject": "Glenna Barreras",
+    "message": "Hello \r\n\r\nIf you’re looking for an easy way to get salon-style hair at home, this might be for you.\r\n\r\nAt Airluxe™, we’ve just launched our most popular hair styling tools — designed to dry faster, style easier, and protect your hair from heat damage.\r\n\r\nRight now, we’re offering a limited-time discount.\r\nUp to 50% OFF today: https://clarimart.com\r\n\r\n- Powerful airflow\r\n- Sleek, lightweight design\r\n- Perfect for everyday styling\r\n\r\nThe discount won’t last long.\r\nTap the link and see why customers are switching to Airluxe™.\r\n\r\nThanks and Best Regards, \r\n\r\nGlenna",
+    "attachment": "",
+    "submitted_at": "2026-01-15T19:51:10.669Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 114,
+  "fields": {
+    "name": "Michael Williams",
+    "email": "michaelswills2022@gmail.com",
+    "phone": "85821843335",
+    "subject": "Re: Explore Funding Opportunities",
+    "message": "Greetings, Mr./Ms., \r\n \r\nI’m Michael Williams from an investment consultancy. We connect clients globally with low interest loans to help achieve your goals. Whether for personal, business or project funding, we collaborate with reputable investors to turn your proposals into reality. Share your business plan and executive summary with us at: michael.williams@lotusfinconsults.com to explore funding options. \r\n \r\nSincerely, Michael Williams \r\nSenior Financial Consultant \r\nhttp://www.lotusfinanceconsults.com/",
+    "attachment": "",
+    "submitted_at": "2026-01-15T21:12:59.759Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 115,
+  "fields": {
+    "name": "Joanna Riggs",
+    "email": "joannariggs278@gmail.com",
+    "phone": "187390109",
+    "subject": "Video Promotion for your website?",
+    "message": "Hi,\r\n\r\nI just visited designscanvas.com and wondered if you've ever considered an impactful video to advertise your business? Our videos can generate impressive results on both your website and across social media.\r\n\r\nOur prices start from just $195 (USD).\r\n\r\nLet me know if you're interested in seeing samples of our previous work.\r\n\r\nRegards,\r\nJoanna\r\n\r\nUnsubscribe: https://unsubscribe.video/unsubscribe.php?d=designscanvas.com",
+    "attachment": "",
+    "submitted_at": "2026-01-15T22:33:37.200Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 116,
+  "fields": {
+    "name": "Mike Jacob Andre\r\n",
+    "email": "mike@monkeydigital.co",
+    "phone": "82871783419",
+    "subject": "Monkey Digital - visibility for AI search & discovery platforms",
+    "message": "Hi, \r\n \r\nSearch is changing faster than most businesses realize. \r\n \r\nMore buyers are now discovering products and services through AI-driven platforms — not only traditional search results. This is why we created the AI Rankings SEO Plan at Monkey Digital. \r\n \r\nIt’s designed to help websites become clear, trusted, and discoverable by AI systems that increasingly influence how people find and choose businesses. \r\n \r\nYou can view the plan here: \r\nhttps://www.monkeydigital.co/ai-rankings/ \r\n \r\nIf you’d like to see whether this approach makes sense for your site, feel free to reach out directly — even a quick question is fine. Whatsapp: https://wa.link/b87jor \r\n \r\n \r\n \r\nBest regards, \r\nMike Jacob Andre\r\n \r\nMonkey Digital \r\nmike@monkeydigital.co \r\nPhone/Whatsapp: +1 (775) 314-7914",
+    "attachment": "",
+    "submitted_at": "2026-01-16T12:34:41.839Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 117,
+  "fields": {
+    "name": "Mike Horst Olsson\r\n",
+    "email": "info@professionalseocleanup.com",
+    "phone": "89363552729",
+    "subject": "Fix August Google Spam update ranking problems for free",
+    "message": "Hi, \r\nWhile reviewing designscanvas.com, we spotted toxic backlinks that could put your site at risk of a Google penalty. Especially that this Google SPAM update had a high impact in ranks. This is an easy and quick fix for you. Totally free of charge. No obligations. \r\n \r\nFix it now: \r\nhttps://www.professionalseocleanup.com/ \r\n \r\nNeed help or questions? Chat here: \r\nhttps://www.professionalseocleanup.com/whatsapp/ \r\n \r\nBest, \r\nMike Horst Olsson\r\n \r\n+1 (855) 221-7591 \r\ninfo@professionalseocleanup.com",
+    "attachment": "",
+    "submitted_at": "2026-01-17T08:34:28.081Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 118,
+  "fields": {
+    "name": "Mike Stephane Martin\r\n",
+    "email": "mike@monkeydigital.co",
+    "phone": "88967361435",
+    "subject": "Increase Your Website Traffic with Targeted Social Ads – Only $10 for 10K Visits!",
+    "message": "Hi there, \r\n \r\nI wanted to connect with something that could seriously help your website’s traffic. We work with a trusted ad network that allows us to deliver genuine, geo-targeted social ads traffic for just $10 per 10,000 visits. \r\n \r\nThis isn't bot traffic—it’s real visitors, tailored to your chosen market and niche. \r\n \r\nWhat you get: \r\n \r\n10,000+ genuine visitors for just $10 \r\nCountry-specific traffic for any country \r\nHigher volumes available based on your needs \r\nUsed by marketers—we even use this for our SEO clients! \r\n \r\nReady to scale? Check out the details here: \r\nhttps://www.monkeydigital.co/product/country-targeted-traffic/ \r\n \r\nOr ask any questions on WhatsApp: \r\nhttps://monkeydigital.co/whatsapp-us/ \r\n \r\nLet's get started today! \r\n \r\nBest, \r\nMike Stephane Martin\r\n \r\nPhone/whatsapp: +1 (775) 314-7914",
+    "attachment": "",
+    "submitted_at": "2026-01-17T22:06:53.765Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 119,
+  "fields": {
+    "name": "Mike Bernt Willems\r\n",
+    "email": "info@digital-x-press.com",
+    "phone": "87583534241",
+    "subject": "Add AEO to your SEO strategies today !",
+    "message": "Hi, \r\nI realize that most website owners find it challenging recognizing that SEO is a gradual process and a carefully organized monthly initiative. \r\n \r\nUnfortunately, very few businesses have the willingness to recognize the incremental yet meaningful results that can completely change their search performance. \r\n \r\nWith constant algorithm changes, a stable, continuous SEO strategy including Answer Engine Optimization (AEO) is essential for getting a profitable outcome. \r\n \r\nIf you agree this as the right approach, partner with us! \r\n \r\nCheck out Our Monthly SEO Services https://www.digital-x-press.com/unbeatable-seo/ \r\n \r\nChat With Us on Instant Messaging https://www.digital-x-press.com/whatsapp-us/ \r\n \r\nWe deliver remarkable results for your investment, and you will value choosing us as your SEO partner. \r\n \r\nKind regards, \r\nDigital X SEO Experts \r\nPhone/WhatsApp: +1 (844) 754-1148",
+    "attachment": "",
+    "submitted_at": "2026-01-20T02:38:18.654Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 120,
+  "fields": {
+    "name": "Gina",
+    "email": "sales@designscanvas.com",
+    "phone": "7903327830",
+    "subject": "Gina Lyon",
+    "message": "Hi, \r\n\r\nJust a quick note — we’re running a short promotion on our EliteNook™ Premium Executive Office Chair right now.\r\n\r\nFree 2-5 day Fast Delivery: https://luxcollection.it.com\r\n\r\nIt’s designed for long hours with ergonomic back support, soft leather feel, and smooth swivel wheels — great for home or office.\r\n\r\nWe’re offering a limited-time discount, so it’s worth a quick look.\r\n\r\nTo your success,\r\n\r\nEliteNook™ Team",
+    "attachment": "",
+    "submitted_at": "2026-01-21T14:07:40.982Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 121,
+  "fields": {
+    "name": "Nikitaveife",
+    "email": "nikitafofanov46@gmail.com",
+    "phone": "85814275744",
+    "subject": "Your Goal, Accomplished",
+    "message": "Warm greetings! Hope you're doing well. \r\n \r\nYour idea or personal challenge is important. I provide funding to help people achieve breakthroughs. Tell me more on WhatsApp  +447464379544",
+    "attachment": "",
+    "submitted_at": "2026-01-21T14:51:47.359Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 122,
+  "fields": {
+    "name": "Sarahveife",
+    "email": "nikitafofanov46@gmail.com",
+    "phone": "86352149562",
+    "subject": "Assistance for Your Endeavor",
+    "message": "Hi! Hope your day is going smoothly. \r\n \r\nLet's achieve your objective together. I'm offering grants to help with project costs, education, and personal challenges. Message me on WhatsApp  +79605581240",
+    "attachment": "",
+    "submitted_at": "2026-01-22T04:05:02.651Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 123,
+  "fields": {
+    "name": "Robertstili",
+    "email": "mariajesusmateo79@gmail.com",
+    "phone": "86121548741",
+    "subject": "Even illness cannot stop a good deed",
+    "message": "Through death, the family is not destroyed, it is transformed; a part of it passes into the unseen. We believe that death is an absence, when in fact it is a discreet presence. \r\nI am suffering from a serious illness that will lead to my certain death. \r\nI have €512,000 in my bank account, which I would like to donate. \r\nPlease contact me if you are interested. \r\n \r\nEmail: mariajesusgarciaa86@gmail.com",
+    "attachment": "",
+    "submitted_at": "2026-01-23T12:11:17.874Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 124,
+  "fields": {
+    "name": "Jorge Gloeckner",
+    "email": "indexing@searches-designscanvas.com",
+    "phone": "135451920",
+    "subject": "designscanvas.com",
+    "message": "Hi,\r\n\r\nRegister designscanvas.com to GoogleSearchIndex and have it displayed in search results!\r\n\r\nAdd designscanvas.com now at https://searchregister.org",
+    "attachment": "",
+    "submitted_at": "2026-01-23T18:45:32.803Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 125,
+  "fields": {
+    "name": "Sarahveife",
+    "email": "nikitafofanov46@gmail.com",
+    "phone": "83569725535",
+    "subject": "Funding Your Vision",
+    "message": "Good day! Hope this message finds you well. \r\n \r\nLet's make your plan work. I'm offering grants for creative endeavors, business startups, and personal support. WhatsApp  +380938820856",
+    "attachment": "",
+    "submitted_at": "2026-01-23T22:48:33.501Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 126,
+  "fields": {
+    "name": "Jacqueline Bloomfield",
+    "email": "better@ai-designscanvas.com",
+    "phone": "7836462733",
+    "subject": "designscanvas.com and A.I.",
+    "message": "Users search using AI more & more.\r\n\r\nAdd designscanvas.com to our AI-optimized directory now to increase your chances of being recommended / mentioned.\r\n\r\nList it here:  https://AIREG.pro",
+    "attachment": "",
+    "submitted_at": "2026-01-25T00:15:27.508Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 127,
+  "fields": {
+    "name": "Nikitaveife",
+    "email": "nikitafofanov46@gmail.com",
+    "phone": "81228148485",
+    "subject": "Financial Backing for Your Life",
+    "message": "Warm greetings! Hope you're doing well. \r\n \r\nI'm in a unique position to offer financial help for projects and personal situations. If you need support, let's connect on WhatsApp  +380668962476",
+    "attachment": "",
+    "submitted_at": "2026-01-25T03:37:43.998Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 128,
+  "fields": {
+    "name": "Nikitaveife",
+    "email": "nikitafofanov46@gmail.com",
+    "phone": "84427667453",
+    "subject": "Let's Finance Your Future",
+    "message": "Warm greetings! Hope you're doing well. \r\n \r\nLet's find out if I can help you. I provide grants for creative endeavors, business ideas, and personal hardships. Reach out on WhatsApp  +79885244972",
+    "attachment": "",
+    "submitted_at": "2026-01-25T22:42:19.473Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 129,
+  "fields": {
+    "name": "Kelly",
+    "email": "sales@designscanvas.com",
+    "phone": "7850242324",
+    "subject": "Thought you’d like this",
+    "message": "Hi,\r\n\r\nThought you might like this.\r\n\r\nWe just launched a limited offer for our FitRx™ Wireless Muscle Massager.\r\n\r\nhttps://easerelief.net\r\n\r\nIt’s fully wireless with smart control and works great for muscle relief, recovery, and relaxation.\r\n\r\nThe discount won’t last long, so don’t miss the deal.\r\n\r\nThanks,\r\nTeam FitRx™",
+    "attachment": "",
+    "submitted_at": "2026-01-26T10:48:50.662Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 130,
+  "fields": {
+    "name": "Matt Bacak",
+    "email": "mattbacak2025@gmail.com",
+    "phone": "353589344",
+    "subject": "Nobody’s Talking About the AI That’s Replacing Traditional Marketing Agencies",
+    "message": "Imagine waking up to find your agency website already built, 100 pre-qualified leads discovered in your area, and outreach campaigns ready to send…\r\nAll done while you were sleeping.\r\nNo coding. No client-chasing. No proposals to write.\r\nThat’s exactly what LocalBizAI did for me.\r\nJust one click… and BOOM!\r\nA fully branded, profit-ready digital marketing agency with services, pricing, leads, and outreach campaigns set up in minutes.\r\n\r\nFor more click Here : https://jvz6.com/c/688203/424347/",
+    "attachment": "",
+    "submitted_at": "2026-01-28T03:48:09.267Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 131,
+  "fields": {
+    "name": "globalfininfo",
+    "email": "finance-and-investments@ukr.net",
+    "phone": "84712959721",
+    "subject": "Gold & Precious Metals: Strategies for Investing in Safe-Haven Assets",
+    "message": "In times of economic uncertainty, many investors turn to <a href=https://globalfininfo.com/investing-in-gold-and-precious-metals>gold investment</a> as a reliable strategy for long-term security. Historically, <a href=https://globalfininfo.com/investing-in-gold-and-precious-metals>precious metals</a> have been viewed as a protective investment, especially during periods of rising inflation and geopolitical risk. \r\nAmong the most commonly discussed metals are <a href=https://globalfininfo.com/investing-in-gold-and-precious-metals>silver</a>, <a href=https://globalfininfo.com/investing-in-gold-and-precious-metals>platinum</a>, and <a href=https://globalfininfo.com/investing-in-gold-and-precious-metals>palladium</a>, each offering different market dynamics and use cases. While gold is often associated with <a href=https://globalfininfo.com/investing-in-gold-and-precious-metals>wealth preservation</a>, silver investment and industrial metals may provide additional growth opportunities within a broader strategy. \r\nMany investors consider gold to be an effective <a href=https://globalfininfo.com/investing-in-gold-and-precious-metals>inflation hedge</a>, helping to maintain purchasing power over time. Holding <a href=https://globalfininfo.com/investing-in-gold-and-precious-metals>physical gold</a>, such as <a href=https://globalfininfo.com/investing-in-gold-and-precious-metals>gold coins</a> or <a href=https://globalfininfo.com/investing-in-gold-and-precious-metals>gold bars</a>, is often seen as a direct way to reduce dependence on financial intermediaries. \r\nBeyond physical ownership, modern markets offer alternative instruments like <a href=https://globalfininfo.com/investing-in-gold-and-precious-metals>gold ETFs</a> and <a href=https://globalfininfo.com/investing-in-gold-and-precious-metals>mining stocks</a>, which provide exposure to precious metals without the need for storage. These options can be useful for investors seeking liquidity while still benefiting from trends in <a href=https://globalfininfo.com/investing-in-gold-and-precious-metals>precious metals investing</a>. \r\nAs with any asset class, understanding <a href=https://globalfininfo.com/investing-in-gold-and-precious-metals>investment risks</a> is essential. Price fluctuations, market cycles, and regulatory factors can all affect returns, making it important to include precious metals as part of a <a href=https://globalfininfo.com/investing-in-gold-and-precious-metals>diversified portfolio</a> rather than relying on a single asset. \r\nFor those focused on long-term <a href=https://globalfininfo.com/investing-in-gold-and-precious-metals>financial stability</a>, combining assets such as <a href=https://globalfininfo.com/investing-in-gold-and-precious-metals>gold bullion</a>, <a href=https://globalfininfo.com/investing-in-gold-and-precious-metals>investment coins</a>, and exchange-traded products may support effective <a href=https://globalfininfo.com/investing-in-gold-and-precious-metals>portfolio diversification</a>. Decisions about when to <a href=https://globalfininfo.com/investing-in-gold-and-precious-metals>buy gold</a> or expand exposure to silver, platinum, or palladium should align with broader financial goals. \r\nFinally, investors should not overlook <a href=https://globalfininfo.com/investing-in-gold-and-precious-metals>precious metals taxation</a>, as tax treatment can vary by country and significantly impact net returns. Being informed about regulatory and tax considerations helps ensure that gold investment strategies remain efficient and compliant. \r\nOverall, investing in precious metals can serve as a valuable tool for wealth protection, particularly when integrated thoughtfully into a balanced investment approach.",
+    "attachment": "",
+    "submitted_at": "2026-01-29T19:18:56.602Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 132,
+  "fields": {
+    "name": "Mike Ole Olsson\r\n",
+    "email": "info@strictlydigital.net",
+    "phone": "85877451786",
+    "subject": "Semrush links for designscanvas.com",
+    "message": "Hi there, \r\n \r\nReceiving some set of links pointing to designscanvas.com could have 0 value or worse for your business. \r\n \r\nIt really doesn’t matter how many external links you have, what matters is the number of search terms those domains appear in search for. \r\n \r\nThat is the critical thing. \r\nNot the fake third-party metrics or ahrefs DR score. \r\nAnyone can manipulate those. \r\nBUT the volume of ranking keywords the sites that point to your site contain. \r\nThat’s the bottom line. \r\n \r\nMake sure these backlinks point to your website and your rankings will skyrocket! \r\n \r\nWe are offering this exclusive SEO package here: \r\nhttps://www.strictlydigital.net/product/semrush-backlinks/ \r\n \r\nNeed more details, or want clarification, chat with us here: \r\nhttps://www.strictlydigital.net/whatsapp-us/ \r\n \r\nBest regards, \r\nMike Ole Olsson\r\n \r\nstrictlydigital.net \r\nPhone/WhatsApp: +1 (877) 566-3738",
+    "attachment": "",
+    "submitted_at": "2026-02-01T15:55:08.536Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 133,
+  "fields": {
+    "name": "Sarahveife",
+    "email": "nikitafofanov46@gmail.com",
+    "phone": "83249137337",
+    "subject": "Support for Your Next Step",
+    "message": "Greetings! Hope you're having a good one. \r\nI'm providing financial backing to enable your project or assist your personal situation. If you need help, reach out on WhatsApp  +37281347257",
+    "attachment": "",
+    "submitted_at": "2026-02-03T21:10:53.477Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 134,
+  "fields": {
+    "name": "Bethany Wynne",
+    "email": "domains@search-designscanvas.com",
+    "phone": "326179457",
+    "subject": "designscanvas.com",
+    "message": "Hey,\r\n\r\nregister designscanvas.com in Google Search Index and have it appear in Web Search Results!\r\n\r\nSubmit designscanvas.com at https://searchregister.org",
+    "attachment": "",
+    "submitted_at": "2026-02-04T18:14:27.659Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 135,
+  "fields": {
+    "name": "Sarahveife",
+    "email": "nikitafofanov46@gmail.com",
+    "phone": "89122142476",
+    "subject": "Resources for Your Reality",
+    "message": "Greetings! Hope you're having a good one. \r\nLet's explore how I can help you move forward. I provide financial grants for business ideas, creative projects, and personal challenges. WhatsApp  +79173031189",
+    "attachment": "",
+    "submitted_at": "2026-02-04T19:18:46.959Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 136,
+  "fields": {
+    "name": "Nikitaveife",
+    "email": "nikitafofanov46@gmail.com",
+    "phone": "81496386198",
+    "subject": "Funding Your Vision",
+    "message": "Warm greetings! Hope you're doing well. \r\n \r\nI believe everyone deserves a shot at their goal. I provide grants for projects, learning opportunities, and personal needs. Let's connect on WhatsApp  +15812577057",
+    "attachment": "",
+    "submitted_at": "2026-02-05T05:00:40.163Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 137,
+  "fields": {
+    "name": "Stacey Palmer",
+    "email": "better@ai-designscanvas.com",
+    "phone": "6044306464",
+    "subject": "designscanvas.com and A.I.",
+    "message": "Users search using AI more & more.\r\n\r\nAdd designscanvas.com to our AI-optimized directory now to increase your chances of being recommended / mentioned.\r\n\r\nList it here:  https://AIREG.pro",
+    "attachment": "",
+    "submitted_at": "2026-02-06T00:59:37.918Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 138,
+  "fields": {
+    "name": "Mike Nicolas Fischer\r\n",
+    "email": "info@speed-seo.net",
+    "phone": "88614565669",
+    "subject": "Find designscanvas.com SEO Issues totally free",
+    "message": "Hi, \r\nWorried about hidden SEO issues on your website? Let us help — completely free. \r\nRun a 100% free SEO check and discover the exact problems holding your site back from ranking higher on Google. \r\n \r\nRun Your Free SEO Check Now \r\nhttps://www.speed-seo.net/check-site-seo-score/ \r\n \r\nOr chat with us and our agent will run the report for you: https://www.speed-seo.net/whatsapp-with-us/ \r\n \r\nBest regards, \r\n \r\n \r\nMike Nicolas Fischer\r\n \r\nSpeed SEO Digital \r\nEmail: info@speed-seo.net \r\nPhone/WhatsApp: +1 (833) 454-8622",
+    "attachment": "",
+    "submitted_at": "2026-02-08T10:53:04.737Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 139,
+  "fields": {
+    "name": "Sarahveife",
+    "email": "nikitafofanov46@gmail.com",
+    "phone": "81187639845",
+    "subject": "Help for Your Personal Project",
+    "message": "Greetings! Hope you're having a good one. \r\nLet's achieve your goal. I'm providing financial grants for personal projects, educational pursuits, and life challenges. WhatsApp  +37499940281",
+    "attachment": "",
+    "submitted_at": "2026-02-11T15:19:04.011Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 140,
+  "fields": {
+    "name": "Rishabh ",
+    "email": "rishabh.trumarketers@gmail.com",
+    "phone": "9211788052",
+    "subject": "Let’s strengthen your search presence",
+    "message": "Hello http://designscanvas.com,\r\n\r\nYour website looks professional, however its search engine rankings need improvement.\r\n\r\nWe specialize in fixing these SEO gaps to improve visibility.\r\n\r\nLet me know your target keywords and target areas, and I’ll share our SEO packages.\r\n\r\nRegards,\r\nRishabh\r\n",
+    "attachment": "",
+    "submitted_at": "2026-02-11T16:20:43.553Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 141,
+  "fields": {
+    "name": "Nikitaveife",
+    "email": "nikitafofanov46@gmail.com",
+    "phone": "85823544411",
+    "subject": "Financial Backing for Your Life",
+    "message": "Hi there! Wishing you a great day ahead. \r\n \r\nYour ambition deserves fuel. As a private patron, I fund creative projects, educational goals, and personal needs. Tell me your story on WhatsApp  +66805348090",
+    "attachment": "",
+    "submitted_at": "2026-02-12T02:35:49.195Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 142,
+  "fields": {
+    "name": "Mike Julien Weber\r\n",
+    "email": "mike@monkeydigital.co",
+    "phone": "89943222827",
+    "subject": "Monkey Digital - helping sites get discovered by AI engines",
+    "message": "Hi, \r\n \r\nSearch is changing faster than most businesses realize. \r\n \r\nMore buyers are now discovering products and services through AI-driven platforms — not only traditional search results. This is why we created the AI Rankings SEO Plan at Monkey Digital. \r\n \r\nIt’s designed to help websites become clear, trusted, and discoverable by AI systems that increasingly influence how people find and choose businesses. \r\n \r\nYou can view the plan here: \r\nhttps://www.monkeydigital.co/ai-rankings/ \r\n \r\nIf you’d like to see whether this approach makes sense for your site, feel free to reach out directly — even a quick question is fine. Whatsapp: https://wa.link/b87jor \r\n \r\n \r\n \r\nBest regards, \r\nMike Julien Weber\r\n \r\nMonkey Digital \r\nmike@monkeydigital.co \r\nPhone/Whatsapp: +1 (775) 314-7914",
+    "attachment": "",
+    "submitted_at": "2026-02-13T04:10:48.821Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 143,
+  "fields": {
+    "name": "Mike Markus Fischer\r\n",
+    "email": "info@professionalseocleanup.com",
+    "phone": "85865414742",
+    "subject": "Fix August Google Spam update ranking problems for free",
+    "message": "Hi, \r\nWhile reviewing designscanvas.com, we spotted toxic backlinks that could put your site at risk of a Google penalty. Especially that this Google SPAM update had a high impact in ranks. This is an easy and quick fix for you. Totally free of charge. No obligations. \r\n \r\nFix it now: \r\nhttps://www.professionalseocleanup.com/ \r\n \r\nNeed help or questions? Chat here: \r\nhttps://www.professionalseocleanup.com/whatsapp/ \r\n \r\nBest, \r\nMike Markus Fischer\r\n \r\n+1 (855) 221-7591 \r\ninfo@professionalseocleanup.com",
+    "attachment": "",
+    "submitted_at": "2026-02-13T13:57:01.382Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 144,
+  "fields": {
+    "name": "Paige Heilman",
+    "email": "domains@search-designscanvas.com",
+    "phone": "20815118",
+    "subject": "designscanvas.com",
+    "message": "Good day\r\n\r\nAdd designscanvas.com in Google Search Index so it can be be displayed in web search results!\r\n\r\nVisit: searchregister.net",
+    "attachment": "",
+    "submitted_at": "2026-02-13T18:16:35.043Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 145,
+  "fields": {
+    "name": "Jaime Dupree",
+    "email": "form@ebr-designscanvas.com",
+    "phone": "9708599499",
+    "subject": "EBR form for designscanvas.com",
+    "message": "Dear designscanvas.com owner,\r\n\r\nUpdate your company's information in Eu Business Register for 2026/2027.\r\n\r\nUpdating is free. Find the form at: ebr-form.pro",
+    "attachment": "",
+    "submitted_at": "2026-02-19T20:51:13.515Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 146,
+  "fields": {
+    "name": "Brigitte Jimenez",
+    "email": "domains@search-designscanvas.com",
+    "phone": "4857282393",
+    "subject": "designscanvas.com",
+    "message": "Hello\r\n\r\nFeature designscanvas.com in Google Search Index and have it appear in online search results!\r\n\r\nRegister designscanvas.com at  https://searchregister.net",
+    "attachment": "",
+    "submitted_at": "2026-02-23T18:44:32.474Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 147,
+  "fields": {
+    "name": "Brandy",
+    "email": "sales@hauslaib.bangeshop.com",
+    "phone": "6567359470",
+    "subject": "Brandy Hauslaib",
+    "message": "Morning, \r\n\r\nI hope this email finds you well. I wanted to let you know about our new BANGE backpacks and sling bags that just released.\r\n\r\nBange is perfect for students, professionals and travelers. The backpacks and sling bags feature a built-in USB charging port, making it easy to charge your devices on the go.  Also they are waterproof and anti-theft design, making it ideal for carrying your valuables.\r\n\r\nBoth bags are made of durable and high-quality materials, and are perfect for everyday use or travel.\r\n\r\nOrder yours now at 50% OFF with FREE Shipping: http://bangeshop.com\r\n\r\nThanks and Best Regards,\r\n\r\nBrandy",
+    "attachment": "",
+    "submitted_at": "2026-03-14T06:21:59.538Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 148,
+  "fields": {
+    "name": "Syreeta",
+    "email": "sales@designscanvas.com",
+    "phone": "4686766",
+    "subject": "Syreeta Capra",
+    "message": "Hi \r\n\r\nLooking to improve your posture and live a healthier life? Our Medico Postura™ Body Posture Corrector is here to help!\r\n\r\nExperience instant posture improvement with Medico Postura™. This easy-to-use device can be worn anywhere, anytime – at home, work, or even while you sleep.\r\n\r\nMade from lightweight, breathable fabric, it ensures comfort all day long.\r\n\r\nGrab it today at a fantastic 60% OFF: https://medicopostura.com\r\n\r\nPlus, enjoy FREE shipping for today only!\r\n\r\nDon't miss out on this amazing deal. Get yours now and start transforming your posture!\r\n\r\nThanks for your time, \r\n\r\nSyreeta",
+    "attachment": "",
+    "submitted_at": "2026-03-16T21:49:39.251Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 149,
+  "fields": {
+    "name": "Ladonna",
+    "email": "sales@designscanvas.com",
+    "phone": "5908826948",
+    "subject": "A quick note",
+    "message": "Hi,\r\n\r\nThought you might like this.\r\n\r\nWe’re offering a special price for our FitRx™ Wireless Muscle Massager.\r\n\r\nhttps://easerelief.net\r\n\r\nIt’s designed for easy, portable use and works great for post-workout recovery and daily comfort.\r\n\r\nThe discount won’t last long, so don’t miss the deal.\r\n\r\nBest regards,\r\nFitRx™ Team",
+    "attachment": "",
+    "submitted_at": "2026-03-20T01:51:35.733Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 150,
+  "fields": {
+    "name": "Newton Poole",
+    "email": "melaniefell51@gmail.com",
+    "phone": "85331381483",
+    "subject": "Partnership Request.",
+    "message": "Hello!! \r\nMy name is Newton Poole, I work as the Research and Procurement Pharmacist in a pharmaceutical company. I am writing to extend a business request to you.  I am looking for a trustworthy entrepreneur/individual to represent my company in sourcing some of Herbal oil basic raw materials used in the manufacturing of high-quality antiviral vaccines, cancer treatment, and other life-saving treatments. I am assuring you that good profits will be earned from the commission that will be paid to middle-person(s). \r\nI will provide exclusive details to you upon your acceptance. \r\nContact WhatsApp: +1 602-487-5666 \r\ncontact by email only when you don't have WhatsApp: labchiefnewton@chemist.com \r\nI await your response to provide further details to you. \r\nRegards \r\nNewton Poole.",
+    "attachment": "",
+    "submitted_at": "2026-03-20T05:14:29.864Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 151,
+  "fields": {
+    "name": "Joanna Riggs",
+    "email": "joannariggs211@gmail.com",
+    "phone": "281261635",
+    "subject": "Video Promotion for designscanvas.com",
+    "message": "Hi,\r\n\r\nI just visited designscanvas.com and wondered if you'd ever thought about having an engaging video to explain what you do?\r\n\r\nOur videos cost just $195 (USD) for a 30 second video ($239 for 60 seconds) and include a full script, voice-over and video.\r\n\r\nI can show you some previous videos we've done if you want me to send some over. Let me know if you're interested in seeing samples of our previous work.\r\n\r\nRegards,\r\nJoanna\r\n\r\nUnsubscribe: https://unsubscribe.video/unsubscribe.php?d=designscanvas.com",
+    "attachment": "",
+    "submitted_at": "2026-04-01T04:06:04.510Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 152,
+  "fields": {
+    "name": "Hunter",
+    "email": "sales@crawley.bangeshop.com",
+    "phone": "344469798",
+    "subject": "Hunter Crawley",
+    "message": "Hello, \r\n\r\nI hope this email finds you well. I wanted to let you know about our new BANGE backpacks and sling bags that just released.\r\n\r\nThe bags are waterproof and anti-theft, and have a built-in USB cable that can recharge your phone while you're on the go.\r\n\r\nBoth bags are made of durable and high-quality materials, and are perfect for everyday use or travel.\r\n\r\nOrder yours now at 50% OFF with FREE Shipping: http://bangeshop.com\r\n\r\nBest regards,\r\n\r\nHunter",
+    "attachment": "",
+    "submitted_at": "2026-04-05T21:06:48.833Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 153,
+  "fields": {
+    "name": "JamesNor",
+    "email": "temp@techllective.co",
+    "phone": "85769146634",
+    "subject": "Grow Your Business with Techllective",
+    "message": "Hello, \r\nTechllective empowers businesses with high-quality websites, mobile apps, and reliable IT solutions. We build fast, secure, and scalable systems designed to support your growth. \r\nLet’s help you take your business to the next level. \r\nVisit: https://techllective.co",
+    "attachment": "",
+    "submitted_at": "2026-04-08T17:50:41.821Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 154,
+  "fields": {
+    "name": "Hannah Melotto",
+    "email": "hm@melottogroup.com",
+    "phone": "2158218810",
+    "subject": "Ready to assist",
+    "message": "Hello! Do you have any use for a freelance writer? I have nearly a decade of experience and am looking for new opportunities. You can book a time with me to chat if interested. Looking forward to connecting! https://calendly.com/melottogroup/30min",
+    "attachment": "",
+    "submitted_at": "2026-04-09T05:31:23.375Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 155,
+  "fields": {
+    "name": "Hannah Melotto",
+    "email": "hm@melottogroup.com",
+    "phone": "2158218810",
+    "subject": "Ready to assist",
+    "message": "Hello! Do you have any use for a freelance writer? I have nearly a decade of experience and am looking for new opportunities. You can book a time with me to chat if interested. Looking forward to connecting! https://calendly.com/melottogroup/30min",
+    "attachment": "",
+    "submitted_at": "2026-04-09T05:31:47.065Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 156,
+  "fields": {
+    "name": "Anna ",
+    "email": "anna.brandelo@gmail.com",
+    "phone": "",
+    "subject": "Your site can rank higher",
+    "message": "Hi http://designscanvas.com,\r\n\r\nYour website looks well-designed, but it seems to have limited visibility on Google.\r\n\r\nWe can help improve its rankings and bring more relevant traffic.\r\n\r\nWould you like me to share a quick plan and pricing?\r\n\r\nThank you,\r\nAnna\r\n",
+    "attachment": "",
+    "submitted_at": "2026-04-09T20:30:22.097Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 157,
+  "fields": {
+    "name": "Michaelswoks",
+    "email": "jacksrenome@gmx.com",
+    "phone": "85834589183",
+    "subject": "Aaaqfjfwkdjifiefowkd foekdwdeoghiejijgero jojfw",
+    "message": "YyErjcwdkdjwjjwjjdwjddjwsjf ndsaKAqwdweihduncbbwebidaa iudwnishqwuvdwqihbfvweuiojsqjqioqdefiw dwqsqwijbfiewdncbhvdifqhioqsjnqw designscanvas.com",
+    "attachment": "",
+    "submitted_at": "2026-04-18T06:00:31.047Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 158,
+  "fields": {
+    "name": "Michaelutemn",
+    "email": "xrumer23veife@gmail.com",
+    "phone": "89379491269",
+    "subject": "",
+    "message": "",
+    "attachment": "",
+    "submitted_at": "2026-04-23T03:48:50.178Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 159,
+  "fields": {
+    "name": "Leeza Bindra",
+    "email": "leeza.rocketdigitaltech@gmail.com",
+    "phone": "7532833829",
+    "subject": "Let’s redesign your website for better leads and conversions",
+    "message": "Hello http://designscanvas.com,\r\n \r\nWe offer professional website design and development services for businesses looking to build a strong online presence.\r\n\r\nIf you are planning to create a new website or redesign your existing one, I would be happy to share our portfolio and pricing details.\r\n\r\nPlease let me know if you would like more information.\r\n \r\nBest Regards,\r\nLeeza",
+    "attachment": "",
+    "submitted_at": "2026-04-23T08:49:28.235Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 160,
+  "fields": {
+    "name": "Elida",
+    "email": "sales@lazarev.bangeshop.com",
+    "phone": "",
+    "subject": "Elida Lazarev",
+    "message": "Hello there, \r\n\r\nI hope you're doing well. I wanted to let you know about our new BANGE backpacks and sling bags that just released.\r\n\r\nBange is perfect for students, professionals and travelers. The backpacks and sling bags feature a built-in USB charging port, making it easy to charge your devices on the go.  Also they are waterproof and anti-theft design, making it ideal for carrying your valuables.\r\n\r\nBoth bags are made of durable and high-quality materials, and are perfect for everyday use or travel.\r\n\r\nOrder yours now at 50% OFF with FREE Shipping: http://bangeshop.com\r\n\r\nEnjoy,\r\n\r\nElida",
+    "attachment": "",
+    "submitted_at": "2026-04-23T15:33:48.823Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 161,
+  "fields": {
+    "name": "Jaimie",
+    "email": "sales@designscanvas.com",
+    "phone": "496418489",
+    "subject": "Jaimie Majeski",
+    "message": "Good Morning \r\n\r\nLooking to improve your posture and live a healthier life? Our Medico Postura™ Body Posture Corrector is here to help!\r\n\r\nExperience instant posture improvement with Medico Postura™. This easy-to-use device can be worn anywhere, anytime – at home, work, or even while you sleep.\r\n\r\nMade from lightweight, breathable fabric, it ensures comfort all day long.\r\n\r\nGrab it today at a fantastic 60% OFF: https://medicopostura.com\r\n\r\nPlus, enjoy FREE shipping for today only!\r\n\r\nDon't miss out on this amazing deal. Get yours now and start transforming your posture!\r\n\r\nThe Best, \r\n\r\nJaimie",
+    "attachment": "",
+    "submitted_at": "2026-05-01T17:18:11.663Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 162,
+  "fields": {
+    "name": "Sophie Lane",
+    "email": "sophie@sendproud.com",
+    "phone": "2155394452",
+    "subject": "Guaranteed results or your money back",
+    "message": "Hi, I’m Sophie! I tried to find you on LinkedIn but couldn’t, so I’m reaching out here. I help businesses book meetings, drive traffic, and generate user sign ups through targeted outreach using my extensive private network, built over 12+ years, with access to over 100 million contacts. We’ll have a quick call to set a clear goal for your business, and I’ll personally work to make sure we reach it. You choose the result you want, whether that’s booked meetings, website traffic, user sign ups, or another measurable outcome, and if I fall short by even one, I’ll refund your money in full. Schedule a time with me here: https://calendly.com/sendproud/30min",
+    "attachment": "",
+    "submitted_at": "2026-05-04T16:57:47.854Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 163,
+  "fields": {
+    "name": "Sophie Lane",
+    "email": "sophie@sendproud.com",
+    "phone": "2155394452",
+    "subject": "Guaranteed results or your money back",
+    "message": "Hi, I’m Sophie! I tried to find you on LinkedIn but couldn’t, so I’m reaching out here. I help businesses book meetings, drive traffic, and generate user sign ups through targeted outreach using my extensive private network, built over 12+ years, with access to over 100 million contacts. We’ll have a quick call to set a clear goal for your business, and I’ll personally work to make sure we reach it. You choose the result you want, whether that’s booked meetings, website traffic, user sign ups, or another measurable outcome, and if I fall short by even one, I’ll refund your money in full. Schedule a time with me here: https://calendly.com/sendproud/30min",
+    "attachment": "",
+    "submitted_at": "2026-05-04T16:58:30.699Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 164,
+  "fields": {
+    "name": "Joanna Riggs",
+    "email": "joannariggs211@gmail.com",
+    "phone": "3175947354",
+    "subject": "Video Promotion for your website?",
+    "message": "Hi,\r\n\r\nI just visited designscanvas.com and wondered if you've ever considered an impactful video to advertise your business? Our videos can generate impressive results on both your website and across social media.\r\n\r\nOur prices start from just $195 (USD).\r\n\r\nLet me know if you're interested in seeing samples of our previous work.\r\n\r\nRegards,\r\nJoanna\r\n\r\nUnsubscribe: https://unsubscribe.video/unsubscribe.php?d=designscanvas.com",
+    "attachment": "",
+    "submitted_at": "2026-05-05T01:24:17.364Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 165,
+  "fields": {
+    "name": "Sophie Lane",
+    "email": "sophie@sendproud.com",
+    "phone": "2155394452",
+    "subject": "Guaranteed results or your money back",
+    "message": "Hi, I’m Sophie! I tried to find you on LinkedIn but couldn’t, so I’m reaching out here. I help businesses book meetings, drive traffic, and generate user sign ups through targeted outreach using my extensive private network, built over 12+ years, with access to over 100 million contacts. We’ll have a quick call to set a clear goal for your business, and I’ll personally work to make sure we reach it. You choose the result you want, whether that’s booked meetings, website traffic, user sign ups, or another measurable outcome, and if I fall short by even one, I’ll refund your money in full. Schedule a time with me here: https://calendly.com/sendproud/30min",
+    "attachment": "",
+    "submitted_at": "2026-05-13T12:52:53.607Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 166,
+  "fields": {
+    "name": "Sophie Lane",
+    "email": "sophie@sendproud.com",
+    "phone": "2155394452",
+    "subject": "Guaranteed results or your money back",
+    "message": "Hi, I’m Sophie! I tried to find you on LinkedIn but couldn’t, so I’m reaching out here. I help businesses book meetings, drive traffic, and generate user sign ups through targeted outreach using my extensive private network, built over 12+ years, with access to over 100 million contacts. We’ll have a quick call to set a clear goal for your business, and I’ll personally work to make sure we reach it. You choose the result you want, whether that’s booked meetings, website traffic, user sign ups, or another measurable outcome, and if I fall short by even one, I’ll refund your money in full. Schedule a time with me here: https://calendly.com/sendproud/30min",
+    "attachment": "",
+    "submitted_at": "2026-05-13T12:53:17.485Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 167,
+  "fields": {
+    "name": "Brandonkig",
+    "email": "sarasanjic@gmail.com",
+    "phone": "84868568725",
+    "subject": "URGENT MESSAGE! YOUR 1.3426 BTC IS COMPREHENSIBLE",
+    "message": "IMPORTANT! YOU'VE GLIMPSED 1.3426 BTC NOW RECEIVE OUTCOME https://urllink.live/sZqnV \r\n \r\n \r\n \r\n \r\n \r\nNUMBER: y3pp5t3j5o6l6n0dt2oz7q8n6s2w9t0th7tn1w1y4i9f1n0tv6cz7b9m2d2b9y5vl9le8d0y2f3u9s5ga6nn6v5u8l1n7r7wd1dw7i6b2g7d3p3g",
+    "attachment": "",
+    "submitted_at": "2026-05-20T05:58:24.295Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 168,
+  "fields": {
+    "name": "Gemma Marshall",
+    "email": "gemmamarshall811@gmail.com",
+    "phone": "4701556",
+    "subject": "Instagram",
+    "message": "Hi,\r\n\r\nI’m reaching out because we help brands connected to designscanvas.com build authority on Instagram.\r\n\r\nWe use our customized AI system, mixed with natural manual interaction to drive niche-relevant followers to your page safely.\r\n\r\nOpen to finding out more about this?\r\n\r\nGemma",
+    "attachment": "",
+    "submitted_at": "2026-05-31T09:52:27.243Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 169,
+  "fields": {
+    "name": "Celeste",
+    "email": "sales@designscanvas.com",
+    "phone": "4546069",
+    "subject": "Celeste Freame",
+    "message": "Good day \r\n\r\nLooking to improve your posture and live a healthier life? Our Medico Postura™ Body Posture Corrector is here to help!\r\n\r\nExperience instant posture improvement with Medico Postura™. This easy-to-use device can be worn anywhere, anytime – at home, work, or even while you sleep.\r\n\r\nMade from lightweight, breathable fabric, it ensures comfort all day long.\r\n\r\nGrab it today at a fantastic 60% OFF: https://medicopostura.com\r\n\r\nPlus, enjoy FREE shipping for today only!\r\n\r\nDon't miss out on this amazing deal. Get yours now and start transforming your posture!\r\n\r\nMany Thanks, \r\n\r\nCeleste",
+    "attachment": "",
+    "submitted_at": "2026-06-08T18:28:28.897Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 170,
+  "fields": {
+    "name": "Isaaclulse",
+    "email": "berra-10@hotmail.com",
+    "phone": "82741911881",
+    "subject": "URGENT MESSAGE! TAKE THE OUTCOME YOUR 1.3426 BTC WORK",
+    "message": "IMPORTANT! 1.3426 BTC IS YOURS WITHDRAW BEFORE POLICY SHIFT https://1.g9.yt/2c65",
+    "attachment": "",
+    "submitted_at": "2026-06-09T18:53:19.348Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 171,
+  "fields": {
+    "name": "Edward Dublin",
+    "email": "edward.dublinbrokers@gmail.com",
+    "phone": "89552569453",
+    "subject": "About Collaboration & Investment Discussions",
+    "message": "Good afternoon, \r\n \r\nI am reaching out to discuss an investment initiative currently under consideration which will certainly benefit you/your business. \r\n \r\nKindly note that it  does not require financial input from you except the partnership/collaboration of your business to facilitate its deployment. \r\n \r\nMy profile is available through http://www.edwarddublin.com/. I'm a UK resident and former Ukraine based businessman. \r\n \r\nI would welcome a brief reply so we can arrange a short introductory discussion. \r\n. \r\nWith best regards, \r\nMr. Edward Dublin \r\nEmail; edward@edwarddublin.com",
+    "attachment": "",
+    "submitted_at": "2026-06-12T02:49:07.217Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 172,
+  "fields": {
+    "name": "Isaaclulse",
+    "email": "pokchop41216@gmail.com",
+    "phone": "83736128176",
+    "subject": "The $27,000,000 Jackpot Is a Logo of Luck",
+    "message": "THE $27,000,000 JACKPOT IS AN ASSURANCE WITH ASSETS http://bpl.kr/PKZg",
+    "attachment": "",
+    "submitted_at": "2026-06-12T19:48:48.434Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 173,
+  "fields": {
+    "name": "Joanna Riggs",
+    "email": "joannariggs278@gmail.com",
+    "phone": "698027988",
+    "subject": "Explainer Video for designscanvas.com",
+    "message": "Hi,\r\n\r\nI just visited designscanvas.com and wondered if you've ever considered an impactful video to advertise your business? Our videos can generate impressive results on both your website and across social media.\r\n\r\nOur prices start from just $195 (USD).\r\n\r\nLet me know if you're interested in seeing samples of our previous work.\r\n\r\nRegards,\r\nJoanna",
+    "attachment": "",
+    "submitted_at": "2026-06-15T01:08:50.626Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 174,
+  "fields": {
+    "name": "Janetlk",
+    "email": "jonesbap1@gmail.com",
+    "phone": "84168255585",
+    "subject": "A Better Feel for Sore Shoulders",
+    "message": "Cooling care helps your shoulders feel calm and refreshed. Enjoy a calmer lighter feel. Tap the link to learn more => psee.io/96qj64",
+    "attachment": "",
+    "submitted_at": "2026-06-17T06:42:33.490Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 175,
+  "fields": {
+    "name": "Isaaclulse",
+    "email": "rosieabochona@gmail.com",
+    "phone": "84433848313",
+    "subject": "The $27,000,000 Jackpot Is a Cast to Cash",
+    "message": "TAKE A STAND AND WIN THE $27,000,000 JACKPOT https://alstr.in/poheQk",
+    "attachment": "",
+    "submitted_at": "2026-06-18T07:43:50.309Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 176,
+  "fields": {
+    "name": "Isaaclulse",
+    "email": "hamzash290@gmail.com",
+    "phone": "87331136616",
+    "subject": "The $27,000,000 Jackpot: Your Ticket to an Instant Celebration",
+    "message": "WHY THE $27,000,000 JACKPOT IS THE PERFECT WAY TO END THE DAY https://link.1hut.ru/MtoGQD",
+    "attachment": "",
+    "submitted_at": "2026-06-20T11:17:57.896Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 177,
+  "fields": {
+    "name": "Isaaclulse",
+    "email": "rojas_cristian27@yahoo.com",
+    "phone": "89963529439",
+    "subject": "THE $27,000,000 JACKPOT IS A GLINT OF GREATNESS",
+    "message": "THE $27,000,000 JACKPOT IS A CROP OF CASH https://jbiv.com/KHHmi",
+    "attachment": "",
+    "submitted_at": "2026-06-23T00:10:07.806Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 178,
+  "fields": {
+    "name": "Isaaclulse",
+    "email": "wingnicole89@icloud.com",
+    "phone": "88138335865",
+    "subject": "WHY ORDINARY WINS DON’T COMPARE TO THIS $27,000,000 JACKPOT",
+    "message": "DON’T JUST WATCH—WIN THE $27,000,000 JACKPOT https://nordwit.com/hoJsUn",
+    "attachment": "",
+    "submitted_at": "2026-06-25T17:05:25.573Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 179,
+  "fields": {
+    "name": "Joanna Riggs",
+    "email": "joriggsvideo3@gmail.com",
+    "phone": "353299669",
+    "subject": "Explainer Video for designscanvas.com",
+    "message": "Hi,\r\n\r\nI just visited designscanvas.com and wondered if you'd ever thought about having an engaging video to explain what you do?\r\n\r\nOur videos cost just $195 (USD) for a 30 second video ($239 for 60 seconds) and include a full script, voice-over and video.\r\n\r\nI can show you some previous videos we've done if you want me to send some over. Let me know if you're interested in seeing samples of our previous work.\r\n\r\nRegards,\r\nJoanna",
+    "attachment": "",
+    "submitted_at": "2026-06-26T13:45:39.373Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 180,
+  "fields": {
+    "name": "Isaaclulse",
+    "email": "pk417914@gmail.com",
+    "phone": "84684633751",
+    "subject": "The $27,000,000 Jackpot Is a Cosmos of Cash",
+    "message": "Could This Be Your Moment to Grab the $27,000,000 Jackpot https://short.vird.co/MQhdD",
+    "attachment": "",
+    "submitted_at": "2026-07-01T07:34:09.278Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 181,
+  "fields": {
+    "name": "Isaaclulse",
+    "email": "virasatsafetybay@gmail.com",
+    "phone": "81571667364",
+    "subject": "The $27,000,000 Jackpot Is a Spin to Smiles",
+    "message": "The $27,000,000 Jackpot Is the Prize That Makes You Smile https://m.clickto.cc/cMTrS",
+    "attachment": "",
+    "submitted_at": "2026-07-03T09:51:32.109Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 182,
+  "fields": {
+    "name": "Gemma Marshall",
+    "email": "gemma.marshall112@gmail.com",
+    "phone": "3991204403",
+    "subject": "Instagram Growth",
+    "message": "Hi,\r\n\r\nI’m reaching out because we help brands connected to designscanvas.com build authority on Instagram.\r\n\r\nWe use our customized AI system, mixed with natural manual interaction to drive niche-relevant followers to your page safely.\r\n\r\nOpen to finding out more about this?\r\n\r\nGemma",
+    "attachment": "",
+    "submitted_at": "2026-07-05T12:47:09.950Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 183,
+  "fields": {
+    "name": "Isaaclulse",
+    "email": "williaed77@gmail.com",
+    "phone": "81447639452",
+    "subject": "THE $27,000,000 JACKPOT IS A MISSION FOR MONEY",
+    "message": "Take Control and Make the $27,000,000 Jackpot Yours https://sh.nz/ZMHu",
+    "attachment": "",
+    "submitted_at": "2026-07-06T12:08:29.863Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 184,
+  "fields": {
+    "name": "Isaaclulse",
+    "email": "ktundertaker@yahoo.com",
+    "phone": "86859697965",
+    "subject": "Seize the Day and the $27,000,000 Jackpot in One Go",
+    "message": "The $27,000,000 Jackpot Is a Database of Dividends https://myip.kr/ikPrQ",
+    "attachment": "",
+    "submitted_at": "2026-07-08T05:22:29.495Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 185,
+  "fields": {
+    "name": "Hugo L Mateo",
+    "email": "info@anwarcapitalllc.com",
+    "phone": "86493859843",
+    "subject": "Flexible Loan Offer Designed for You",
+    "message": "Dear Sirs/ma, \r\n \r\nTake advantage of our limited?time loan offer and gain vital access to a flexible repayment plan designed to fit your budget. \r\n \r\nWhy choose this offer: Discounted interest rate, Instant approval, No collateral required, and 100% online processing, Including a face to face table meeting for closing. \r\n \r\nThis offer is valid and made available to all sectors, lucrative and projects with high value of returns. \r\n \r\nTo proceed, kindly reply to this email with your confirmation. \r\n \r\nDon’t miss out on this opportunity to fund your plans with ease. \r\n \r\nSincerely, \r\n \r\nHugo L Mateo \r\n \r\nFinancial Broker Authority \r\nDohat Al-Adab Street, Al-Khuwair, \r\nLevel 43, Building 115, King Abdullah Financial. \r\nanwar@anwarcapitalllc.com \r\nW: +96875039067",
+    "attachment": "",
+    "submitted_at": "2026-07-09T19:23:32.908Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 186,
+  "fields": {
+    "name": "Isaaclulse",
+    "email": "bourdelle.frederic@wanadoo.fr",
+    "phone": "86835876537",
+    "subject": "THE $27,000,000 JACKPOT IS A CIRCLE WITH CASHFLOW",
+    "message": "Secure Your Entry to the $27,000,000 Jackpot Draw https://telegra.ph/CLAIM-YOUR-25000-BONUS-AND-CHASE-THE-27000000-JACKPOT--Message-ID-491932-06-29",
+    "attachment": "",
+    "submitted_at": "2026-07-10T03:02:04.480Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 187,
+  "fields": {
+    "name": "Isaaclulse",
+    "email": "noluckblessed@yahoo.com",
+    "phone": "89738446584",
+    "subject": "YOUR BREAKTHROUGH STARTS WITH THE $27,000,000 JACKPOT",
+    "message": "YOUR WINNING STRATEGY STARTS WITH THE $27,000,000 JACKPOT https://hiurls.com/HikjOV",
+    "attachment": "",
+    "submitted_at": "2026-07-12T11:59:20.895Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.contactsubmission",
+  "pk": 188,
+  "fields": {
+    "name": "Sarah Lancaster",
+    "email": "sarahlancaster146@gmail.com",
+    "phone": "674206384",
+    "subject": "Partnering on X for designscanvas.com",
+    "message": "Hi,\r\n\r\nI run an account on X with 800K+ active followers, and wanted to reach out about designscanvas.com specifically.\r\n\r\nI just opened a $3/mo subscriber tier, and I'm inviting site owners in before opening it up publicly. The launch bundle includes:\r\n\r\n- A monthly retweet — I'll amplify your best post each month to my followers.\r\n- 2 guides (WordPress Optimization + YouTube Traffic) with full resell rights — rebrand, use as lead magnets, or sell and keep 100%.\r\n- A new guide each month, same rights, plus the full back-catalog on signup.\r\n\r\nIf this interests you, reply to this email and I'll send over the account + the link — I'm only reaching out to a small number of sites initially.\r\n\r\nSarah",
+    "attachment": "",
+    "submitted_at": "2026-07-13T01:46:59.407Z",
+    "is_read": false
+  }
+},
+{
+  "model": "landingpage.sitesetting",
+  "pk": 1,
+  "fields": {
+    "site_name": "DesignsCanvas",
+    "logo": "site/website-png-22_IeJoc6e.png",
+    "footer_description": "Sohel Rana",
+    "footer_logo": "site/website-png-22_0xyE2xB.png",
+    "contact_email": "sohel.design404@gmail.com",
+    "contact_phone": "+8801706253404",
+    "hero_title": "Branding Connoisseurs",
+    "hero_subtitle": "A strong brand identity builds trust, creates recognition, and sets a business apart in a crowded market.",
+    "hero_image": "hero/11_wINhF7v.jpeg",
+    "hero_image1": "hero/22_lqwhObf.jpeg",
+    "hero_image2": "hero/33.jpeg",
+    "cta_button_text": "Contact Us",
+    "facebook_url": "https://www.facebook.com/sohelrana404",
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/in/sohelrana404/",
+    "instagram_url": "https://www.instagram.com/sohel_rana404/",
+    "github_url": null,
+    "dribble_url": "https://dribbble.com/sohelrana404"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 3,
+  "fields": {
+    "name": "farming logo",
+    "detail": "",
+    "color_code": "F2F2F2",
+    "icon": "mvicons/8.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-02T07:01:44.051Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 4,
+  "fields": {
+    "name": "Modern B",
+    "detail": "",
+    "color_code": "03112C",
+    "icon": "mvicons/9.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-02T07:02:24.204Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 5,
+  "fields": {
+    "name": "home logo",
+    "detail": "",
+    "color_code": "FF4001",
+    "icon": "mvicons/11.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-02T07:03:22.964Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 6,
+  "fields": {
+    "name": "g logo",
+    "detail": "",
+    "color_code": "08B6BF",
+    "icon": "mvicons/14.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-02T07:04:17.067Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 7,
+  "fields": {
+    "name": "Letter N",
+    "detail": "",
+    "color_code": "5E58A0",
+    "icon": "mvicons/7.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-02T07:05:18.417Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 8,
+  "fields": {
+    "name": "eye logo",
+    "detail": "",
+    "color_code": "282D41",
+    "icon": "mvicons/5.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-02T07:05:52.305Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 9,
+  "fields": {
+    "name": "eco logo",
+    "detail": "",
+    "color_code": "CACE1D",
+    "icon": "mvicons/6.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-02T07:06:19.872Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 10,
+  "fields": {
+    "name": "V shape logo",
+    "detail": "",
+    "color_code": "F7CC6C",
+    "icon": "mvicons/1.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-02T07:06:58.712Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 11,
+  "fields": {
+    "name": "Letter K",
+    "detail": "",
+    "color_code": "AD0C23",
+    "icon": "mvicons/3.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-02T07:07:23.047Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 12,
+  "fields": {
+    "name": "k",
+    "detail": "",
+    "color_code": "1E4396",
+    "icon": "mvicons/10.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-02T07:07:49.748Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 13,
+  "fields": {
+    "name": "chat logo",
+    "detail": "",
+    "color_code": "6D3803",
+    "icon": "mvicons/13.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-02T07:08:21.024Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 14,
+  "fields": {
+    "name": "W V logo",
+    "detail": "",
+    "color_code": "174793",
+    "icon": "mvicons/4.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-02T07:09:19.351Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 15,
+  "fields": {
+    "name": "pictorial logo",
+    "detail": "",
+    "color_code": "110247",
+    "icon": "mvicons/2.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-02T07:11:21.307Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 16,
+  "fields": {
+    "name": "Letter A",
+    "detail": "",
+    "color_code": "FFFFFF",
+    "icon": "mvicons/12.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-02T07:11:51.835Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 17,
+  "fields": {
+    "name": "Avocado",
+    "detail": "",
+    "color_code": "0000A0",
+    "icon": "mvicons/15.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-02T07:16:01.929Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 18,
+  "fields": {
+    "name": "X logo",
+    "detail": "",
+    "color_code": "5E58A0",
+    "icon": "mvicons/16.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-02T07:16:26.577Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 19,
+  "fields": {
+    "name": "G echo logo",
+    "detail": "",
+    "color_code": "005B0E",
+    "icon": "mvicons/17.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-02T07:17:01.383Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 20,
+  "fields": {
+    "name": "Letter Q",
+    "detail": "",
+    "color_code": "F6F7EB",
+    "icon": "mvicons/18.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-02T08:46:51.231Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 21,
+  "fields": {
+    "name": "Letter W growup",
+    "detail": "",
+    "color_code": "23313A",
+    "icon": "mvicons/19.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-02T08:47:33.942Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 22,
+  "fields": {
+    "name": "abstract logo",
+    "detail": "",
+    "color_code": "1E4396",
+    "icon": "mvicons/20.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-02T08:48:11.662Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 23,
+  "fields": {
+    "name": "Letter N",
+    "detail": "",
+    "color_code": "493978",
+    "icon": "mvicons/21.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-02T08:48:43.801Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 24,
+  "fields": {
+    "name": "pinwheel logo mark",
+    "detail": "",
+    "color_code": "F2F2F2",
+    "icon": "mvicons/22.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-02T08:49:31.773Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 25,
+  "fields": {
+    "name": "Letter W",
+    "detail": "",
+    "color_code": "2A3634",
+    "icon": "mvicons/23.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:03:53.862Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 26,
+  "fields": {
+    "name": "Letter N",
+    "detail": "",
+    "color_code": "343F75",
+    "icon": "mvicons/24.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:04:27.307Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 27,
+  "fields": {
+    "name": "water drop logo",
+    "detail": "",
+    "color_code": "F2F2F2",
+    "icon": "mvicons/25.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:05:17.981Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 28,
+  "fields": {
+    "name": "W with showing",
+    "detail": "",
+    "color_code": "000141",
+    "icon": "mvicons/26.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:06:12.000Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 29,
+  "fields": {
+    "name": "Letter B",
+    "detail": "",
+    "color_code": "EE9F1F",
+    "icon": "mvicons/27.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:06:32.027Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 30,
+  "fields": {
+    "name": "abstract logo",
+    "detail": "",
+    "color_code": "2A3634",
+    "icon": "mvicons/28.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:08:15.010Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 31,
+  "fields": {
+    "name": "V car logo",
+    "detail": "",
+    "color_code": "FFFBF8",
+    "icon": "mvicons/29.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:08:44.292Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 32,
+  "fields": {
+    "name": "H with Home",
+    "detail": "",
+    "color_code": "030303",
+    "icon": "mvicons/30.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:09:18.575Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 33,
+  "fields": {
+    "name": "Pictorial logo",
+    "detail": "",
+    "color_code": "6D3803",
+    "icon": "mvicons/31.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:10:22.464Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 34,
+  "fields": {
+    "name": "bank logo",
+    "detail": "",
+    "color_code": "5E58A0",
+    "icon": "mvicons/32.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:10:58.338Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 35,
+  "fields": {
+    "name": "Echo G logo",
+    "detail": "",
+    "color_code": "005B0E",
+    "icon": "mvicons/17_lwqOfzj.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:11:28.575Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 36,
+  "fields": {
+    "name": "Letter W",
+    "detail": "",
+    "color_code": "FFFFFF",
+    "icon": "mvicons/34.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:12:45.344Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 37,
+  "fields": {
+    "name": "Letter V",
+    "detail": "",
+    "color_code": "CACE1D",
+    "icon": "mvicons/35.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:13:15.576Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 38,
+  "fields": {
+    "name": "echo tree logo",
+    "detail": "",
+    "color_code": "005B0E",
+    "icon": "mvicons/36.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:13:47.295Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 39,
+  "fields": {
+    "name": "F letter Modern",
+    "detail": "",
+    "color_code": "AD0C23",
+    "icon": "mvicons/37.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:14:31.921Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 40,
+  "fields": {
+    "name": "Growly logo",
+    "detail": "",
+    "color_code": "E8ED32",
+    "icon": "mvicons/38.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:15:20.406Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 41,
+  "fields": {
+    "name": "letter S",
+    "detail": "",
+    "color_code": "08B6BF",
+    "icon": "mvicons/39.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:15:59.438Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 42,
+  "fields": {
+    "name": "round echo logo",
+    "detail": "",
+    "color_code": "87C440",
+    "icon": "mvicons/40.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:19:01.061Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 43,
+  "fields": {
+    "name": "next Zen logo",
+    "detail": "",
+    "color_code": "FE4732",
+    "icon": "mvicons/41.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:19:36.922Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 44,
+  "fields": {
+    "name": "letter G",
+    "detail": "",
+    "color_code": "03112C",
+    "icon": "mvicons/42.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:20:09.671Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 45,
+  "fields": {
+    "name": "O modern logo",
+    "detail": "",
+    "color_code": "FAFBE9",
+    "icon": "mvicons/43.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:21:59.000Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 46,
+  "fields": {
+    "name": "tree abstract",
+    "detail": "",
+    "color_code": "F6C900",
+    "icon": "mvicons/44.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:23:04.180Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 47,
+  "fields": {
+    "name": "letter f",
+    "detail": "",
+    "color_code": "111441",
+    "icon": "mvicons/45.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:23:44.534Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 48,
+  "fields": {
+    "name": "leaf logo",
+    "detail": "",
+    "color_code": "E8ED32",
+    "icon": "mvicons/46.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:24:07.903Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 49,
+  "fields": {
+    "name": "H tech logo",
+    "detail": "",
+    "color_code": "018AFC",
+    "icon": "mvicons/47.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:24:43.435Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 50,
+  "fields": {
+    "name": "H home logo",
+    "detail": "",
+    "color_code": "E42405",
+    "icon": "mvicons/48.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:25:31.900Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 51,
+  "fields": {
+    "name": "Doctor logo",
+    "detail": "",
+    "color_code": "F2F2F2",
+    "icon": "mvicons/49.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:25:58.995Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 52,
+  "fields": {
+    "name": "crypto logo",
+    "detail": "",
+    "color_code": "282D41",
+    "icon": "mvicons/50.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:26:30.332Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 53,
+  "fields": {
+    "name": "7 x logo",
+    "detail": "",
+    "color_code": "D7FF00",
+    "icon": "mvicons/51.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:26:54.628Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 54,
+  "fields": {
+    "name": "bee logo",
+    "detail": "",
+    "color_code": "F9F6EF",
+    "icon": "mvicons/52.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:27:24.538Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 55,
+  "fields": {
+    "name": "real-estate M logo",
+    "detail": "",
+    "color_code": "122525",
+    "icon": "mvicons/53.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:28:06.096Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 56,
+  "fields": {
+    "name": "Letter A abstract",
+    "detail": "",
+    "color_code": "005B0E",
+    "icon": "mvicons/54.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:29:02.514Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 57,
+  "fields": {
+    "name": "shower logo",
+    "detail": "",
+    "color_code": "010101",
+    "icon": "mvicons/56.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:30:01.047Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 58,
+  "fields": {
+    "name": "dot marker  logo",
+    "detail": "",
+    "color_code": "004F42",
+    "icon": "mvicons/57.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:30:42.899Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 59,
+  "fields": {
+    "name": "balance logo",
+    "detail": "",
+    "color_code": "F2F2F2",
+    "icon": "mvicons/58.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:31:23.702Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 60,
+  "fields": {
+    "name": "real-estate M logo",
+    "detail": "",
+    "color_code": "243F50",
+    "icon": "mvicons/59.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:32:05.757Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 61,
+  "fields": {
+    "name": "Grownup logo",
+    "detail": "",
+    "color_code": "72A442",
+    "icon": "mvicons/60.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:32:36.195Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 62,
+  "fields": {
+    "name": "trafe  logo",
+    "detail": "",
+    "color_code": "174793",
+    "icon": "mvicons/61.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:33:34.908Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 63,
+  "fields": {
+    "name": "pinwale logo",
+    "detail": "",
+    "color_code": "6D3803",
+    "icon": "mvicons/62.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:34:10.585Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 64,
+  "fields": {
+    "name": "sports logo",
+    "detail": "",
+    "color_code": "AD0C23",
+    "icon": "mvicons/63.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:35:52.874Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 65,
+  "fields": {
+    "name": "Letter S Modern logo",
+    "detail": "",
+    "color_code": "FAFBE9",
+    "icon": "mvicons/64.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:36:37.236Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 66,
+  "fields": {
+    "name": "click logo",
+    "detail": "",
+    "color_code": "000141",
+    "icon": "mvicons/65.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:37:10.085Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 67,
+  "fields": {
+    "name": "flight logo",
+    "detail": "",
+    "color_code": "F2F2F2",
+    "icon": "mvicons/66.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:37:39.195Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 68,
+  "fields": {
+    "name": "Enjoin  logo",
+    "detail": "",
+    "color_code": "1E4396",
+    "icon": "mvicons/67.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:38:23.974Z"
+  }
+},
+{
+  "model": "landingpage.moveablelogo",
+  "pk": 69,
+  "fields": {
+    "name": "Letter A",
+    "detail": "",
+    "color_code": "6D3803",
+    "icon": "mvicons/55.png",
+    "order": 0,
+    "is_active": true,
+    "created_at": "2025-08-03T16:39:53.538Z"
+  }
+},
+{
+  "model": "landingpage.homesection",
+  "pk": 1,
+  "fields": {
+    "section_type": "projects",
+    "is_active": false,
+    "title": "My Name Sohel Rana",
+    "subtitle": "Independent Art Director, Logo and Brand Identity Specialist.",
+    "order": 0
+  }
+},
+{
+  "model": "landingpage.about",
+  "pk": 1,
+  "fields": {
+    "title": "My name is Sohel-",
+    "subtitle": "Independent Art Director, Logo and Brand Identity Specialist.",
+    "description": "LogoArchive is packed with timeless logo gems that fuel my creativity. Building brands with clarity and impact. With a focus on strategy-driven creativity, I craft unique visual identities that communicate brand values and build lasting recognition.\"",
+    "image": "about/png-image_yKPxzDJ.png",
+    "created_at": "2025-08-03T17:04:15.930Z",
+    "updated_at": "2025-08-18T05:27:38.532Z"
+  }
+}
+]

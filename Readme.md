@@ -78,6 +78,51 @@ A dynamic Django-based website for a creative design agency featuring portfolio 
    python manage.py runserver
    ```
 
+## Database Fixtures (Backup & Restore)
+
+Sample/backup data is stored as Django fixtures:
+
+- `fixtures/db.json` — combined dump of all app data (auth users + all `landingpage`/`urlshortner` models), excluding volatile tables (contenttypes, permissions, admin log, sessions)
+- `landingpage/fixtures/landingpage.json` — Landingpage app data only
+- `urlshortner/fixtures/urlshortner.json` — Urlshortner app data only
+
+### Restore data
+
+Into the current database:
+```bash
+python manage.py loaddata fixtures/db.json
+```
+
+Into a fresh/empty database:
+```bash
+python manage.py migrate
+python manage.py loaddata fixtures/db.json
+```
+
+Restore a single app's data only:
+```bash
+python manage.py loaddata landingpage
+python manage.py loaddata urlshortner
+```
+
+If login fails after loading (passwords may not carry over reliably across environments), create a fresh superuser:
+```bash
+python manage.py createsuperuser
+```
+
+### Update the fixtures
+
+Re-run after making data changes you want to snapshot:
+```bash
+python manage.py dumpdata landingpage --indent 2 > landingpage/fixtures/landingpage.json
+python manage.py dumpdata urlshortner --indent 2 > urlshortner/fixtures/urlshortner.json
+python manage.py dumpdata --indent 2 --natural-foreign --natural-primary \
+  -e contenttypes -e auth.permission -e admin.logentry -e sessions.session \
+  > fixtures/db.json
+```
+
+**Note:** Fixtures only restore database rows, not uploaded media files. Ensure files referenced by image/file fields (e.g. `media/projects/`, `media/services/`) exist on the target machine, or those references will be broken.
+
 ## Project Structure
 
 ```
